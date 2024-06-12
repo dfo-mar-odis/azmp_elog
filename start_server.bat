@@ -1,0 +1,1 @@
+elogd -c .\azmp_elog\2024_DY_xxx.cfg -d .\logbooks -s .\themes\default
