@@ -1,1 +1,6 @@
 *SAMPLE_MISSION_NAME
+*.spec
+
+build/
+dist/
+.idea/
