@@ -8,7 +8,7 @@
 5. Type `git checkout -b [name of your mission]`
     * This will create a branch for the config and log files for the mission
 6. Rename the sample.cfg using the mission name
-7. Open the sample.cfg and replace the `SAMPLE_MISSION_NAME` string with the name of the mission
+7. Open the sample.cfg and using a mass find and replace replace the `SAMPLE_MISSION_NAME` string where it appears with the name of the mission name
 8. In the command window run:
    * `git add .` to add the new/renamed file to the git tracker
    * `git commit -a -m "Initial commit for [mission name here]"` to save the changes to the file to the git repo
