@@ -26,11 +26,18 @@
     * This will place logbooks in the azmp_elog directory so when `git commit -a -m "some message"` commands are used changes to the config file and logbooks will be saved in the git repo
 
 # Useful commands
-1. `git commit -a -m "[some message here]"`
-    * This saves files to your local git repo where they can be recalled at any time
-2. `git status`
-3. `git log`
-    * prints out a lost of git commits with the commit message to help you find files tha have been changed
+1. `git add .`
+   * adds all new/untracked files to the git tracker, unless otherwise specified in the .gitignore file
+3. `git commit -a -m "[some message here]"`
+   * This saves files to your local git repo where they can be recalled at any time
+4. `git status`
+   * prints a list of files not yet included in the git tracker
+5. `git log`
+   * prints out a list of git commits with the commit message to help you find files tha have been changed
+6. `git pull origin master`
+   * pulls updates from the 'master' branch at the 'origin' url, when calling `git clone https://dfo-mar-odis/azmp_elog` the 'origin' url is set to the azmp_elog repo on github
+7. `git push origin [branch_name_here]`
+   * pushes the local copy of a mission to the branch specified by [branch_name_here]. If `git checkout -b [branch_name_here]` was used to create branch, then the branch name must match the name used in the `push` command
 ## example log for a commit
 ```
 commit adb8fe6f8ea3f2f48e164369986bb8c7c3508d4c
@@ -42,7 +49,7 @@ added template for Discovery config
 4. `git checkout [UUID]`
     * Checks out the files from the git commit indicated by the UUID, in the example message above the UUID is `adb8fe6f8ea3f2f48e164369986bb8c7c3508d4c`
     * This is a great way to get a previous version of a file, but it creates a "detached head" which can be problematic as it puts the repo it a state that can lead to file conflicts, always make sure to switch back to your mission branch, or create a new branch from the detached head
-    * * `git switch -` will switch you back to your mission branch
+      * `git switch -` will switch you back to your mission branch
       * `git switch -c [new branch name]` will create a new branch from the detached head
       * `git branch` will list available branches
-      * `git checkout [branch name]` will make the branch_name the working branch
+      * `git checkout [branch name]` will make the branch_name the working branch, this requires a banch already exists unlike the `git checkout -b [branch name]` command which will create a new branch based on the current local directory structure
