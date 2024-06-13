@@ -22,7 +22,7 @@
 
 1. Navigate to your e-log directory (e.g C:\Dev\ELOG\)
 2. Click in the windows address bar and type `cmd`
-3. In the command window type `elogd -c .\azmp_elog\[name of your config file] -s .\theme\default'
+3. In the command window type `elogd -c .\azmp_elog\[name of your config file] -s .\theme\default -x'`
     * This will place logbooks in the azmp_elog directory so when `git commit -a -m "some message"` commands are used changes to the config file and logbooks will be saved in the git repo
 
 # Useful commands
