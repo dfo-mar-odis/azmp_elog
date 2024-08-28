@@ -1,29 +1,37 @@
 # Setup for use with azmp_elog
 
-1. Navigate to your e-log directory (e.g C:\Dev\ELOG\)
+1. Navigate to your elog directory (e.g C:\Dev\ELOG\)
 2. Click in the windows address bar and type `cmd`
 3. In the command window type `git clone https://dfo-mar-odis/azmp_elog'
     * this will copy the azmp_elog repo to the working machine
 4. Type `cd azmp_elog` to open the newly created directory in the command window
 5. Type `git checkout -b [name of your mission]`
     * This will create a branch for the config and log files for the mission
-6. Rename the sample.cfg using the mission name
-7. Open the sample.cfg and, using a mass find and replace, replace the `SAMPLE_MISSION_NAME` string where it appears with the actual mission name
-8. In the command window run:
+6. copy the sample.cfg and rename the copy to 'elog.conf'
+    * Remove the existing elog.conf if it exists, it may contain specalized code for a previous mission
+8. Open the elog.cfg and, using a mass find and replace, replace the `SAMPLE_MISSION_NAME` string where it appears with the actual mission name
+9. Update the `--- MetaData ---` section setting the Pi, protocol, platform and cruise dates as required
+10. In the command window run:
    * `git add .` to add the new/renamed file to the git tracker
    * `git commit -a -m "Initial commit for [mission name here]"` to save the changes to the file to the git repo
    * **Note:** Make sure to leave meaningful messages, you might need them later
-10. When the config file or log files need to be updated make sure to run:
+11. When the config file or log files need to be updated make sure to run:
     * `git add .` to add all files to the git tracker
     * `git commit -a -m "[what did you just do!]"` to save the state of the files in the git repo before making changes
-11. At the end of the mission use `git push origin [name of your mission]` to push the config and log files up to github where they can be accessed by others.
+12. At the end of the mission use `git push origin [name of your mission]` to push the config and log files up to github where they can be accessed by others.
 
 # Starting the elog server
 
-1. Navigate to your e-log directory (e.g C:\Dev\ELOG\)
+## Using the command line
+1. Navigate to your elog directory (e.g C:\Dev\ELOG\)
 2. Click in the windows address bar and type `cmd`
-3. In the command window type `elogd -c .\azmp_elog\[name of your config file] -s .\theme\default -x'`
+4. In the command window type `elogd -c .\azmp_elog\elog.cfg -s .\theme\default -x'`
     * This will place logbooks in the azmp_elog directory so when `git commit -a -m "some message"` commands are used changes to the config file and logbooks will be saved in the git repo
+
+## Using start_server.bat
+1. Copy the start_server.bat file from the azmp_elog directory (e.g C:\Dev\ELOG\azmp_elog\) in to the elog root directory (E.g C:\Dev\ELOG\)
+2. Double click the start_server.bat file in the elog root directory
+    * The start_server.bat does the same thing as if you typed the `elogd` command described above
 
 # Useful commands
 1. `git add .`
