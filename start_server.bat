@@ -1,1 +1,1 @@
-elogd -c .\azmp_elog\sample.cfg -s .\themes\default -x
+elogd -c .\azmp_elog\elog.cfg -s .\themes\default -x
