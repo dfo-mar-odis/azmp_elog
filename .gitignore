@@ -1,9 +1,6 @@
 *SAMPLE_MISSION_NAME
 *.spec
 
-Scripts/Event.txt
-Scripts/Order.txt
-
 build/
 dist/
 .idea/
