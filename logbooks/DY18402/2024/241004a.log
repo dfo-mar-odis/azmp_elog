@@ -1,0 +1,231 @@
+$@MID@$: 1
+Date: Fri, 04 Oct 2024 18:38:18 +0100
+Reply to: 2
+Event: 001
+Station: M2264
+Instrument: Recover Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Attempt Comms
+Sounding: 171.11
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Benoit Casault
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-04 | 173818.01 | 44 15.087223 N | 63 09.710977 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 2
+Date: Fri, 04 Oct 2024 18:40:59 +0100
+Reply to: 3
+In reply to: 1
+Event: 001
+Station: M2264
+Instrument: Recover Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Release
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Benoit Casault
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-04 | 174059.01 | 44 15.099306 N | 63 09.723239 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 3
+Date: Fri, 04 Oct 2024 18:54:05 +0100
+In reply to: 2
+Event: 001
+Station: M2264
+Instrument: Recover Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: On Deck
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Benoit Casault
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-04 | 175405.01 | 44 15.022486 N | 63 09.874989 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 4
+Date: Fri, 04 Oct 2024 19:20:28 +0100
+Reply to: 5
+Event: 002
+Station: M2309
+Instrument: Deploy Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Start Deployment
+Sounding: 170.19
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Benoit Casault
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-04 | 182028.01 | 44 14.996232 N | 63 10.044332 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 04/Oct/2024 19:23:21
+Mooring Number: M2309
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 5
+Date: Fri, 04 Oct 2024 19:22:11 +0100
+In reply to: 4
+Event: 002
+Station: M2309
+Instrument: Deploy Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Anchor Away
+Sounding: 170.33
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Benoit Casault
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-04 | 182211.01 | 44 14.995965 N | 63 10.044812 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: M2309
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
