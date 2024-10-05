@@ -1,5 +1,5 @@
-$@MID@$: 1
-Date: Fri, 04 Oct 2024 21:18:19 +0100
+$@MID@$: 2
+Date: Sat, 05 Oct 2024 16:05:21 +0100
 Sample #: 'scripts\GetEvent_v2' is not recognized as an internal or external command,
 Number of pCO2 Samples: 0
 Number of TIC Samples: 1
@@ -8,14 +8,14 @@ Number of CDOM Samples: 1
 Number of HPLC Samples: 0
 Number of ABS Samples: 0
 Number of Other Samples: 2
-Other Sample/s not Listed: Salts and oxygen
-Sample ID: 511753
+Other Sample/s not Listed: Salts, oxygen
+Sample ID: 511754
 Paper log Completed: Yes
-Author: Lindsay Beazley
-Time|Position: 2024-10-04 | 201819.01 | 43 56.833076 N | 63 04.007911 W
+Author: Benoit Casault
+Time|Position: 2024-10-05 | 150521.01 | 42 04.995036 N | 63 10.572618 W
 Mission: DY18402
 PI: Lindsay Beazley
-Revisions: 05/Oct/2024 16:06:18
+Revisions: 
 Attachment: 
 Encoding: HTML
 ========================================
