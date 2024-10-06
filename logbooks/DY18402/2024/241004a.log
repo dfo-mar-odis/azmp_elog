@@ -1,5 +1,5 @@
 $@MID@$: 1
-Date: Fri, 04 Oct 2024 18:38:18 +0100
+Date: Fri, 04 Oct 2024 17:38:18 +0000
 Reply to: 2
 Event: 001
 Station: M2264
@@ -45,7 +45,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 2
-Date: Fri, 04 Oct 2024 18:40:59 +0100
+Date: Fri, 04 Oct 2024 17:40:59 +0000
 Reply to: 3
 In reply to: 1
 Event: 001
@@ -92,7 +92,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 3
-Date: Fri, 04 Oct 2024 18:54:05 +0100
+Date: Fri, 04 Oct 2024 17:54:05 +0000
 In reply to: 2
 Event: 001
 Station: M2264
@@ -138,7 +138,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 4
-Date: Fri, 04 Oct 2024 19:20:28 +0100
+Date: Fri, 04 Oct 2024 18:20:28 +0000
 Reply to: 5
 Event: 002
 Station: M2309
@@ -184,7 +184,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 5
-Date: Fri, 04 Oct 2024 19:22:11 +0100
+Date: Fri, 04 Oct 2024 18:22:11 +0000
 In reply to: 4
 Event: 002
 Station: M2309
