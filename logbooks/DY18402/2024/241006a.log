@@ -236,7 +236,7 @@ In reply to: 11
 Event: 005
 Station: BBL_05
 Instrument: RingNet
-Attached: 202um
+Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 39357
@@ -266,7 +266,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 06/Oct/2024 04:04:54
+Revisions: 07/Oct/2024 10:00:18
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -606,7 +606,7 @@ In reply to: 19
 Event: 008
 Station: BBL_06
 Instrument: RingNet
-Attached: 202um
+Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 39973
@@ -636,7 +636,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 07/Oct/2024 09:59:45
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -884,7 +884,7 @@ In reply to: 25
 Event: 010
 Station: BBL_07
 Instrument: RingNet
-Attached: 202um
+Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 43235
@@ -914,7 +914,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 06/Oct/2024 13:39:12
+Revisions: 07/Oct/2024 09:59:24
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1393,7 +1393,7 @@ In reply to: 36
 Event: 014
 Station: BBL_04
 Instrument: RingNet
-Attached: 202um
+Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 47201
@@ -1423,7 +1423,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 06/Oct/2024 22:13:50
+Revisions: 07/Oct/2024 09:59:06
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
