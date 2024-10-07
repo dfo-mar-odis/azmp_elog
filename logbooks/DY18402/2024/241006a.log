@@ -4,7 +4,7 @@ Reply to: 8
 Event: 004
 Station: BBL_05
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -34,7 +34,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 06/Oct/2024 03:17:36
+Revisions: 07/Oct/2024 03:22:17
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -51,7 +51,7 @@ In reply to: 7
 Event: 004
 Station: BBL_05
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -81,7 +81,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 07/Oct/2024 03:22:24
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -97,7 +97,7 @@ In reply to: 8
 Event: 004
 Station: BBL_05
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -127,7 +127,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 07/Oct/2024 03:22:31
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -282,7 +282,7 @@ Reply to: 14
 Event: 006
 Station: BBL_06
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -312,7 +312,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 07/Oct/2024 03:23:46
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -329,7 +329,7 @@ In reply to: 13
 Event: 006
 Station: BBL_06
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -359,7 +359,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 06/Oct/2024 06:13:56
+Revisions: 07/Oct/2024 03:23:53
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -375,7 +375,7 @@ In reply to: 14
 Event: 006
 Station: BBL_06
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -405,7 +405,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 06/Oct/2024 06:14:24
+Revisions: 07/Oct/2024 03:23:59
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
