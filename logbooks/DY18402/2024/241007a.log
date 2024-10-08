@@ -1997,7 +1997,7 @@ In reply to: 82
 Event: 029
 Station: YL_03
 Instrument: RingNet
-Attached: 202um
+Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 49481
@@ -2027,7 +2027,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 08/Oct/2024 11:11:13
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
