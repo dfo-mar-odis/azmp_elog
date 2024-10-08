@@ -1,0 +1,278 @@
+$@MID@$: 84
+Date: Tue, 08 Oct 2024 01:08:19 +0000
+Reply to: 85
+Event: 030
+Station: YL_04
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 238.37
+Sample ID: 511960
+End_Sample_ID: 511972
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Found out after the cast bottle #1 did not close. Bottom oxygen, salinity and nutrients were taken from next bottle.
+Time|Position: 2024-10-08 | 010819.01 | 43 32.381501 N | 67 45.171567 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 08/Oct/2024 02:09:36
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 85
+Date: Tue, 08 Oct 2024 01:26:44 +0000
+Reply to: 86
+In reply to: 84
+Event: 030
+Station: YL_04
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 241.18
+Sample ID: 511960
+End_Sample_ID: 511972
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-08 | 012644.01 | 43 32.381862 N | 67 45.175625 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 86
+Date: Tue, 08 Oct 2024 01:52:26 +0000
+In reply to: 85
+Event: 030
+Station: YL_04
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 236.39
+Sample ID: 511960
+End_Sample_ID: 511972
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Closing extra surface bottles to balance the CTD. The bottles will be removed from the .bl file before processing.
+Time|Position: 2024-10-08 | 015226.01 | 43 32.382882 N | 67 45.174695 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 08/Oct/2024 02:08:39
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 87
+Date: Tue, 08 Oct 2024 02:21:01 +0000
+Reply to: 88
+Event: 031
+Station: YL_02
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 50159
+Flowmeter End: 
+Action: Deployed
+Sounding: 241.51
+Sample ID: 511973
+End_Sample_ID: 
+Wire out: 230
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Kevin Sorochan
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-08 | 022101.01 | 43 32.387251 N | 67 45.115382 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 88
+Date: Tue, 08 Oct 2024 02:27:45 +0000
+Reply to: 89
+In reply to: 87
+Event: 031
+Station: YL_02
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 50159
+Flowmeter End: 
+Action: Bottom
+Sounding: 241.67
+Sample ID: 511973
+End_Sample_ID: 
+Wire out: 230
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Kevin Sorochan
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-08 | 022745.01 | 43 32.417372 N | 67 45.073430 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 89
+Date: Tue, 08 Oct 2024 02:38:46 +0000
+In reply to: 88
+Event: 031
+Station: YL_02
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 50159
+Flowmeter End: 50987
+Action: Recovered
+Sounding: 241.75
+Sample ID: 511973
+End_Sample_ID: 
+Wire out: 230
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Kevin Sorochan
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: during deployment - descent stalled while net under ship at ~20 m. After ~ 1 minute continued downward
+Time|Position: 2024-10-08 | 023846.01 | 43 32.463772 N | 67 45.016213 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 08/Oct/2024 03:00:39
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
