@@ -1805,55 +1805,8 @@ Encoding: plain
 ========================================
 
 $@MID@$: 182
-Date: Thu, 10 Oct 2024 20:57:05 +0000
-Reply to: 183
-Event: 063
-Station: PL_09
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 58556
-Flowmeter End: 
-Action: Deployed
-Sounding: 269.54
-Sample ID: 512237
-End_Sample_ID: 
-Wire out: 
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Rebecca Milne
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: delete this please, Patrick 
-Time|Position: 2024-10-10 | 205705.01 | 42 22.632102 N | 66 24.054067 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 10/Oct/2024 21:36:02
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 183
 Date: Thu, 10 Oct 2024 20:58:41 +0000
-Reply to: 184
-In reply to: 182
+Reply to: 183
 Event: 063
 Station: PL_09
 Instrument: RingNet
@@ -1897,10 +1850,10 @@ Attachment:
 Encoding: plain
 ========================================
 
-$@MID@$: 184
+$@MID@$: 183
 Date: Thu, 10 Oct 2024 21:07:07 +0000
-Reply to: 185
-In reply to: 183
+Reply to: 184
+In reply to: 182
 Event: 063
 Station: PL_09
 Instrument: RingNet
@@ -1944,56 +1897,9 @@ Attachment:
 Encoding: plain
 ========================================
 
-$@MID@$: 185
-Date: Thu, 10 Oct 2024 21:13:51 +0000
-Reply to: 186
-In reply to: 184
-Event: 063
-Station: PL_09
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 58556
-Flowmeter End: 
-Action: Recovered
-Sounding: 270.17
-Sample ID: 512237
-End_Sample_ID: 
-Wire out: 260
-Wire Angle: 5
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Rebecca Milne
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: delete this please, Patrick 
-Time|Position: 2024-10-10 | 211351.01 | 42 22.619357 N | 66 24.130788 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 10/Oct/2024 21:36:41
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 186
+$@MID@$: 184
 Date: Thu, 10 Oct 2024 21:14:53 +0000
-In reply to: 185
+In reply to: 183
 Event: 063
 Station: PL_09
 Instrument: RingNet
