@@ -1114,7 +1114,7 @@ $@MID@$: 209
 Date: Fri, 11 Oct 2024 08:26:18 +0000
 Reply to: 210
 Event: 072
-Station: NEC_06
+Station: NEC_05
 Instrument: CTD
 Attached: pH
 Number_of_Bottles: 
@@ -1146,7 +1146,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 11/Oct/2024 19:53:00
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1161,7 +1161,7 @@ Date: Fri, 11 Oct 2024 08:43:33 +0000
 Reply to: 211
 In reply to: 209
 Event: 072
-Station: NEC_06
+Station: NEC_05
 Instrument: CTD
 Attached: pH
 Number_of_Bottles: 
@@ -1193,7 +1193,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 11/Oct/2024 19:53:12
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1207,7 +1207,7 @@ $@MID@$: 211
 Date: Fri, 11 Oct 2024 09:04:45 +0000
 In reply to: 210
 Event: 072
-Station: NEC_06
+Station: NEC_05
 Instrument: CTD
 Attached: pH
 Number_of_Bottles: 
@@ -1239,7 +1239,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 11/Oct/2024 19:53:21
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
