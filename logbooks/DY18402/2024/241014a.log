@@ -1400,7 +1400,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Bottom
-Sounding: NA
+Sounding: 2761.96
 Sample ID: 512637
 End_Sample_ID: 512660
 Wire out: 2735
@@ -1418,13 +1418,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Manually added sounding from GPS logs
 Time|Position: 2024-10-14 | 194417.01 | 42 28.511699 N | 61 25.994195 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 15/Oct/2024 03:13:18
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1446,7 +1446,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Recovered
-Sounding: NA
+Sounding: 2769.33
 Sample ID: 512637
 End_Sample_ID: 512660
 Wire out: 2735
@@ -1464,13 +1464,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Manually added sounding from GPS logs
 Time|Position: 2024-10-14 | 210603.01 | 42 28.512780 N | 61 25.997087 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 15/Oct/2024 03:14:04
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
