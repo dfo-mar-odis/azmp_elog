@@ -695,7 +695,7 @@ Encoding: plain
 
 $@MID@$: 331
 Date: Mon, 14 Oct 2024 08:52:38 +0000
-Reply to: 332, 333
+Reply to: 332
 Event: 110
 Station: HL_06.3
 Instrument: CTD
@@ -742,6 +742,7 @@ Encoding: plain
 $@MID@$: 332
 Date: Mon, 14 Oct 2024 09:40:01 +0000
 In reply to: 331
+Reply to: 334
 Event: 110
 Station: HL_06.3
 Instrument: CTD
@@ -785,56 +786,9 @@ Attachment:
 Encoding: plain
 ========================================
 
-$@MID@$: 333
-Date: Mon, 14 Oct 2024 09:40:02 +0000
-Reply to: 334
-In reply to: 331
-Event: 110
-Station: HL_06.3
-Instrument: CTD
-Attached: 
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 
-Flowmeter End: 
-Action: Bottom
-Sounding: 1683.63
-Sample ID: 512596
-End_Sample_ID: 512613
-Wire out: 1658
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Patrick Upson
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: Extra ELOG entry to e deleted.
-Time|Position: 2024-10-14 | 094002.01 | 42 43.983628 N | 61 36.983967 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 14/Oct/2024 11:29:27
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
 $@MID@$: 334
 Date: Mon, 14 Oct 2024 11:18:42 +0000
-In reply to: 333
+In reply to: 332
 Event: 110
 Station: HL_06.3
 Instrument: CTD
