@@ -1539,7 +1539,7 @@ Flowmeter S/N:
 Flowmeter Start: 75824
 Flowmeter End: 
 Action: Bottom
-Sounding: NA
+Sounding: 2769.22
 Sample ID: 512661
 End_Sample_ID: 
 Wire out: 1000
@@ -1557,13 +1557,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Manually added sounding from GPS logs
 Time|Position: 2024-10-14 | 215006.01 | 42 28.526714 N | 61 25.758932 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 15/Oct/2024 03:15:42
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
