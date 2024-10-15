@@ -1158,7 +1158,7 @@ Encoding: plain
 
 $@MID@$: 342
 Date: Mon, 14 Oct 2024 16:52:59 +0000
-Reply to: 343, 344
+Reply to: 343, 
 In reply to: 341
 Event: 113
 Station: HL_06.7
@@ -1240,52 +1240,6 @@ PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
 Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 344
-Date: Mon, 14 Oct 2024 17:15:32 +0000
-In reply to: 342
-Event: 113
-Station: HL_06.7
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 72988
-Flowmeter End: 75823
-Action: Recovered
-Sounding: NA
-Sample ID: 512636
-End_Sample_ID: 
-Wire out: 1000
-Wire Angle: 0
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Rebecca Milne
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 
-Time|Position: 2024-10-14 | 171532.01 | 42 37.121327 N | 61 31.006860 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 14/Oct/2024 17:23:53
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
