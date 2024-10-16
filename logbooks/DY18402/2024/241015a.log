@@ -660,7 +660,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Release
-Sounding: NA
+Sounding: 1511
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -678,13 +678,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Sounder was off. Using sounding from deployment event.
 Time|Position: 2024-10-15 | 205422.01 | 43 51.809949 N | 58 54.694645 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 15/Oct/2024 20:01:27
+Revisions: 16/Oct/2024 06:05:14
 Mooring Number: M2258
 Number of RCMs: 0
 Number of MicroCATs: 1
@@ -706,7 +706,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: On Deck
-Sounding: NA
+Sounding: 1511
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -724,13 +724,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Sounder was off. Using sounding from deployment event.
 Time|Position: 2024-10-15 | 215948.01 | 43 50.802416 N | 58 55.812672 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 15/Oct/2024 21:59:55
+Revisions: 16/Oct/2024 06:05:31
 Mooring Number: M2258
 Number of RCMs: 0
 Number of MicroCATs: 1
