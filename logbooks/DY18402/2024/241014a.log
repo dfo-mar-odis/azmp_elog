@@ -1001,13 +1001,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Paused at 632 m WO on downcast to activate heave.
 Time|Position: 2024-10-14 | 133424.01 | 42 37.121946 N | 61 31.007417 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 15/Oct/2024 09:23:00
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1033,7 +1033,7 @@ Action: Bottom
 Sounding: 2312
 Sample ID: 512615
 End_Sample_ID: 512635
-Wire out: 2200
+Wire out: 2280
 Wire Angle: 
 Net Clogging: 
 Wind Direction: 
@@ -1048,13 +1048,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: Manually added sounding
+Comment: Manually added sounding. Long pause at 2279 m WO for wire alignment. Active heave deactivated for upcast.
 Time|Position: 2024-10-14 | 143911.01 | 42 37.121107 N | 61 31.009048 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 15/Oct/2024 02:39:42
+Revisions: 15/Oct/2024 09:24:34
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1094,13 +1094,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Paused at 483 m WO on upcast as wire approached cheek of drum.
 Time|Position: 2024-10-14 | 161434.01 | 42 37.121790 N | 61 31.013837 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 15/Oct/2024 09:25:35
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1325,13 +1325,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: Sensor cap left on.
+Comment: Cast aborted for CTD tech to confirm that pH sensor was taken off the CTD.
 Time|Position: 2024-10-14 | 183911.01 | 42 28.513245 N | 61 25.998134 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 15/Oct/2024 09:20:02
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1418,13 +1418,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: Manually added sounding from GPS logs
+Comment: Manually added sounding from GPS logs. Active heave activated on downcast at 102 m. Paused at 2000 m WO for heave deactivation.
 Time|Position: 2024-10-14 | 194417.01 | 42 28.511699 N | 61 25.994195 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 15/Oct/2024 03:13:18
+Revisions: 15/Oct/2024 09:16:58
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
