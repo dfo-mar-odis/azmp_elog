@@ -556,7 +556,7 @@ Encoding: plain
 
 $@MID@$: 413
 Date: Fri, 18 Oct 2024 08:56:51 +0000
-Reply to: 414
+Reply to: 415
 Event: 138
 Station: LL_05
 Instrument: CTD
@@ -600,57 +600,10 @@ Attachment:
 Encoding: plain
 ========================================
 
-$@MID@$: 414
-Date: Fri, 18 Oct 2024 08:58:23 +0000
-Reply to: 415
-In reply to: 413
-Event: 138
-Station: LL_05
-Instrument: CTD
-Attached: pH
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 
-Flowmeter End: 
-Action: Deployed
-Sounding: 244.69
-Sample ID: 512807
-End_Sample_ID: 512818
-Wire out: 
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Patrick Upson
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: Extra "Deployed" entry - to be deleted.
-Time|Position: 2024-10-18 | 085823.01 | 44 48.983369 N | 58 50.998892 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 18/Oct/2024 09:42:08
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
 $@MID@$: 415
 Date: Fri, 18 Oct 2024 09:10:25 +0000
 Reply to: 416
-In reply to: 414
+In reply to: 413
 Event: 138
 Station: LL_05
 Instrument: CTD
