@@ -103,7 +103,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: On Deck
-Sounding: NA
+Sounding: 183.47
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -121,13 +121,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Manually added sounding from last ship sounding
 Time|Position: 2024-10-17 | 151352.01 | 45 26.240694 N | 57 49.542457 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 19/Oct/2024 07:40:43
 Mooring Number: 
 Number of RCMs: 0
 Number of MicroCATs: 1

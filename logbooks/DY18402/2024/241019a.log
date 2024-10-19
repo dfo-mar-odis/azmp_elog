@@ -75,12 +75,12 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: Exception in thread Thread-1 (get_stream):
+Time|Position: 2024-10-19 | 003013.84 | 45 49.498972 N | 59 50.997006 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 19/Oct/2024 06:48:11
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -122,12 +122,12 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: NA
+Time|Position: 2024-10-19 | 003313.85 | 45 49.498175 N | 59 50.998523 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 19/Oct/2024 06:47:13
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -173,7 +173,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 19/Oct/2024 06:48:38
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

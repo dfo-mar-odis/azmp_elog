@@ -10,7 +10,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: NA
+Sounding: 745.70
 Sample ID: 512772
 End_Sample_ID: 512795
 Wire out: 
@@ -34,7 +34,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 19/Oct/2024 07:43:29
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
