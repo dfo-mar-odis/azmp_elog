@@ -887,7 +887,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Attempt Comms
-Sounding: NA
+Sounding: 456.86
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -905,7 +905,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Used sounding from last available sounding
 Time|Position: 2024-10-19 | 164756.01 | 47 26.144546 N | 60 02.805834 W
 Cruise: DY18402
 PI: Lindsay Beazley
@@ -934,7 +934,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Release
-Sounding: NA
+Sounding: 456.86
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -952,7 +952,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Used sounding from last available sounding
 Time|Position: 2024-10-19 | 164821.01 | 47 26.144520 N | 60 02.807082 W
 Cruise: DY18402
 PI: Lindsay Beazley
@@ -980,7 +980,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: On Deck
-Sounding: NA
+Sounding: 456.86
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -998,7 +998,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Used sounding from last available sounding 
 Time|Position: 2024-10-19 | 171117.01 | 47 26.078314 N | 60 03.487601 W
 Cruise: DY18402
 PI: Lindsay Beazley
@@ -1165,7 +1165,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Release
-Sounding: NA
+Sounding: 508.36
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -1183,7 +1183,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Used sounding from last action
 Time|Position: 2024-10-19 | 185632.01 | 47 29.417127 N | 59 48.001511 W
 Cruise: DY18402
 PI: Lindsay Beazley
@@ -1211,7 +1211,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: On Deck
-Sounding: NA
+Sounding: 508.36
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -1229,7 +1229,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Used sounding from last action
 Time|Position: 2024-10-19 | 191843.01 | 47 29.052735 N | 59 48.178707 W
 Cruise: DY18402
 PI: Lindsay Beazley
