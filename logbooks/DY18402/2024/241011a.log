@@ -2530,13 +2530,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: VPR was jolted at surface which caused it to shut off
+Comment: VPR was jolted at surface during cast which caused the camera to shut off
 Time|Position: 2024-10-11 | 233227.01 | 42 52.698504 N | 65 18.846693 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 11/Oct/2024 23:35:06
+Revisions: 19/Oct/2024 03:50:12
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
