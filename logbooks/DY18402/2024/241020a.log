@@ -926,3 +926,142 @@ Attachment:
 Encoding: plain
 ========================================
 
+$@MID@$: 502
+Date: Sun, 20 Oct 2024 08:34:25 +0000
+Reply to: 503
+Event: 167
+Station: CSL_05
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 479.06
+Sample ID: 512960
+End_Sample_ID: 512975
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-20 | 083425.01 | 47 25.996186 N | 59 33.401542 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 503
+Date: Sun, 20 Oct 2024 08:54:01 +0000
+Reply to: 504
+In reply to: 502
+Event: 167
+Station: CSL_05
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 475.55
+Sample ID: 512960
+End_Sample_ID: 512975
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-20 | 085401.01 | 47 25.990882 N | 59 33.462486 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 504
+Date: Sun, 20 Oct 2024 09:27:58 +0000
+In reply to: 503
+Event: 167
+Station: CSL_05
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 478.45
+Sample ID: 512960
+End_Sample_ID: 512975
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Benoit Casault
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2024-10-20 | 092758.01 | 47 25.995756 N | 59 33.474967 W
+Cruise: DY18402
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS Discovery
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
