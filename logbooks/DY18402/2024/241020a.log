@@ -789,7 +789,7 @@ Encoding: plain
 
 $@MID@$: 498
 Date: Sun, 20 Oct 2024 06:43:33 +0000
-Reply to: 499, 500
+Reply to: 500
 Event: 166
 Station: CSL_04
 Instrument: RingNet
@@ -824,52 +824,6 @@ PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
 Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 499
-Date: Sun, 20 Oct 2024 06:58:08 +0000
-In reply to: 498
-Event: 166
-Station: CSL_04
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 28569
-Flowmeter End: 
-Action: Deployed
-Sounding: 470.48
-Sample ID: 512959
-End_Sample_ID: 
-Wire out: 451
-Wire Angle: 0
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Kevin Sorochan
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: Patrick pls delete
-Time|Position: 2024-10-20 | 065808.01 | 47 16.282840 N | 59 46.995784 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 20/Oct/2024 07:10:24
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
