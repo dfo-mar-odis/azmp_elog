@@ -1350,7 +1350,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Deployed
 Sounding: 80.29
-Sample ID: 512866
+Sample ID: 512886
 End_Sample_ID: 512903
 Wire out: 
 Wire Angle: 
@@ -1373,7 +1373,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions:
+Revisions: 20/Oct/2024 09:34:48
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1397,7 +1397,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Bottom
 Sounding: 80.25
-Sample ID: 512866
+Sample ID: 512886
 End_Sample_ID: 512903
 Wire out: 
 Wire Angle: 
@@ -1420,7 +1420,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions:
+Revisions: 20/Oct/2024 09:35:10
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1443,7 +1443,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Recovered
 Sounding: 80.25
-Sample ID: 512866
+Sample ID: 512886
 End_Sample_ID: 512903
 Wire out: 
 Wire Angle: 
@@ -1466,7 +1466,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions:
+Revisions: 20/Oct/2024 09:35:17
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
