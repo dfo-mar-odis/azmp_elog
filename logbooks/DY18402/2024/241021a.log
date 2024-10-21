@@ -15,7 +15,7 @@ Sounding: 418.79
 Sample ID: 513024
 End_Sample_ID: 
 Wire out: 407
-Wire Angle: 
+Wire Angle: 0
 Net Clogging: 
 Wind Direction: 
 Wind Speed (nm): 
@@ -35,7 +35,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 21/Oct/2024 00:37:50
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
