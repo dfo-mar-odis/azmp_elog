@@ -3,7 +3,7 @@ Date: Mon, 21 Oct 2024 00:05:37 +0000
 Reply to: 530
 In reply to: 528
 Event: 176
-Station: HL_01
+Station: STAB_06
 Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
@@ -35,7 +35,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 20/Oct/2024 21:41:23
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -49,7 +49,7 @@ $@MID@$: 530
 Date: Mon, 21 Oct 2024 00:16:53 +0000
 In reply to: 529
 Event: 176
-Station: HL_01
+Station: STAB_06
 Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
@@ -81,7 +81,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 20/Oct/2024 21:41:15
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
