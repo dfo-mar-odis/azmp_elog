@@ -1948,7 +1948,7 @@ $@MID@$: 525
 Date: Sun, 20 Oct 2024 22:43:53 +0000
 Reply to: 526
 Event: 175
-Station: HL_01
+Station: STAB_06
 Instrument: CTD
 Attached: pH
 Number_of_Bottles: 
@@ -1980,7 +1980,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 20/Oct/2024 21:41:05
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1995,7 +1995,7 @@ Date: Sun, 20 Oct 2024 23:06:31 +0000
 Reply to: 527
 In reply to: 525
 Event: 175
-Station: HL_01
+Station: STAB_06
 Instrument: CTD
 Attached: pH
 Number_of_Bottles: 
@@ -2027,7 +2027,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 20/Oct/2024 21:40:57
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2041,7 +2041,7 @@ $@MID@$: 527
 Date: Sun, 20 Oct 2024 23:34:02 +0000
 In reply to: 526
 Event: 175
-Station: HL_01
+Station: STAB_06
 Instrument: CTD
 Attached: pH
 Number_of_Bottles: 
@@ -2073,7 +2073,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 20/Oct/2024 21:40:47
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2087,7 +2087,7 @@ $@MID@$: 528
 Date: Sun, 20 Oct 2024 23:51:57 +0000
 Reply to: 529
 Event: 176
-Station: HL_01
+Station: STAB_06
 Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
@@ -2119,7 +2119,7 @@ Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS Discovery
-Revisions: 
+Revisions: 20/Oct/2024 21:41:33
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
