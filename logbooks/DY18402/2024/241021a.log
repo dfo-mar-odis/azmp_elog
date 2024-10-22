@@ -1141,13 +1141,7 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: NA
-Exception in thread Thread-1 (get_stream):
-Traceback (most recent call last):
-  File "threading.py", line 1038, in _bootstrap_inner
-  File "threading.py", line 975, in run
-  File "print_nmea_gps.py", line 42, in get_stream
-ValueError: invalid literal for int() with base 10: ''
+Time|Position: 2024-10-21 | 083701.01 | 46 17.995773 N | 59 03.863812 W
 Cruise: DY18402
 PI: Lindsay Beazley
 Protocol: AZMP
