@@ -2730,56 +2730,9 @@ Attachment:
 Encoding: plain
 ========================================
 
-$@MID@$: 588
-Date: Mon, 21 Oct 2024 20:46:47 +0000
-Reply to: 589
-Event: 197
-Station: A2
-Instrument: MultiNet
-Attached: Flowmeter | CTD
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 
-Flowmeter End: 
-Action: Deployed
-Sounding: 159.25
-Sample ID: 
-End_Sample_ID: 
-Wire out: 
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Rebecca Milne
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 
-Time|Position: 2024-10-21 | 204647.01 | 45 29.988325 N | 60 00.004020 W
-Cruise: DY18402
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS Discovery
-Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
 $@MID@$: 589
 Date: Mon, 21 Oct 2024 20:49:51 +0000
 Reply to: 590
-In reply to: 588
 Event: 197
 Station: A2
 Instrument: MultiNet
