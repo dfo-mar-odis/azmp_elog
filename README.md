@@ -11,7 +11,8 @@
     * Remove the existing elog.conf if it exists, it may contain specalized code for a previous mission
 8. Open the elog.cfg and, using a mass find and replace, replace the `SAMPLE_MISSION_NAME` string where it appears with the actual mission name
 9. Update the `--- MetaData ---` section setting the Pi, protocol, platform and cruise dates as required
-10. In the command window run:
+10. update port numbers for time/position and sounding and potientially the timeout value depending on the ship. This information will have be provided by the ship.
+11. In the command window run:
    * `git add .` to add the new/renamed file to the git tracker
    * `git commit -a -m "Initial commit for [mission name here]"` to save the changes to the file to the git repo
    * **Note:** Make sure to leave meaningful messages, you might need them later
