@@ -1,0 +1,56 @@
+$@MID@$: 1
+Date: Sun, 30 Mar 2025 05:04:47 +0000
+Event: started DFO TSG
+Station: HL_02
+Item: TSG
+Type: Note
+Comment: started DFO TSG 2025-03-29 12:50 Atlantic time 44.26667 63.32685 intake depth 5 m
+Author: Diana Cardoso
+Revisions: 30/Mar/2025 05:19:00
+Time|Position: 2025-03-30 | 050445 | 43 17.3118 N | 65 14.2255 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 2
+Date: Sun, 30 Mar 2025 05:14:07 +0000
+Event: started ADCPs
+Station: HL_02
+Item: VMADCP
+Type: Note
+Comment: started os75 and os300 ADCPs 2025-03-29 12:53 UTC 44.6847 63.613115
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-03-30 | 051405 | 43 16.9786 N | 65 16.3004 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 3
+Date: Sun, 30 Mar 2025 05:18:02 +0000
+Event: started Endeavor TSG 
+Station: HL_02
+Item: TSG
+Type: Note
+Comment: started Endeavor TSG 2025-03-29 14:52 UTC 44.3717 63.451
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-03-30 | 051800 | 43 16.8536 N | 65 17.1592 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 4
+Date: Sun, 30 Mar 2025 05:23:15 +0000
+Event: started IFCB
+Station: HL_02
+Item: IFCB
+Type: Note
+Comment: started  IFCB 2025-03-29 14:32 UTC 44.4435 63.4856
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-03-30 | 052313 | 43 16.6803 N | 65 18.2979 W
+Attachment: 
+Encoding: HTML
+========================================
+
