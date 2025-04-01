@@ -613,7 +613,7 @@ Flowmeter Start: 01323
 Flowmeter End: 
 Action: Deployed
 Sounding: 192.93
-Sample ID: 514205
+Sample ID: 
 End_Sample_ID: 
 Wire out: 
 Wire Angle: 
@@ -636,7 +636,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 01/Apr/2025 10:53:07
+Revisions: 01/Apr/2025 23:01:27
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -660,7 +660,7 @@ Flowmeter Start: 01323
 Flowmeter End: 
 Action: Bottom
 Sounding: 194.66
-Sample ID: 514205
+Sample ID: 
 End_Sample_ID: 
 Wire out: 178
 Wire Angle: 5
@@ -683,7 +683,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 01/Apr/2025 10:52:57
+Revisions: 01/Apr/2025 23:01:39
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -706,7 +706,7 @@ Flowmeter Start: 01323
 Flowmeter End: 01895
 Action: Aborted
 Sounding: 187.93
-Sample ID: 514205
+Sample ID: 
 End_Sample_ID: 
 Wire out: 178
 Wire Angle: 5
@@ -729,7 +729,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 01/Apr/2025 10:52:43
+Revisions: 01/Apr/2025 23:01:47
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1297,7 +1297,7 @@ Encoding: plain
 
 $@MID@$: 98
 Date: Tue, 01 Apr 2025 17:35:21 +0000
-Reply to: 99, 100
+Reply to: 99, 
 Event: 033
 Station: YL_07
 Instrument: RingNet
@@ -1378,99 +1378,6 @@ PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
 Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 100
-Date: Tue, 01 Apr 2025 17:41:16 +0000
-Reply to: 101
-In reply to: 98
-Event: 033
-Station: YL_07
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 02945
-Flowmeter End: 
-Action: Bottom
-Sounding: 158.28
-Sample ID: 514234
-End_Sample_ID: 
-Wire out: 146
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Lindsay Beazley
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 
-Time|Position: 2025-04-01 | 174115 | 43 19.7240 N | 69 06.5074 W
-Cruise: EN728
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RV Endeavor
-Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 101
-Date: Tue, 01 Apr 2025 17:47:12 +0000
-In reply to: 100
-Event: 033
-Station: YL_07
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 02945
-Flowmeter End: 03482
-Action: Recovered
-Sounding: 154.02
-Sample ID: 514234
-End_Sample_ID: 
-Wire out: 146
-Wire Angle: 30
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Lindsay Beazley
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 
-Time|Position: 2025-04-01 | 174710 | 43 19.7712 N | 69 06.5933 W
-Cruise: EN728
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RV Endeavor
-Revisions: 01/Apr/2025 18:07:46
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1610,6 +1517,284 @@ PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
 Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 105
+Date: Tue, 01 Apr 2025 21:27:08 +0000
+Reply to: 106
+Event: 035
+Station: YL_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 03482
+Flowmeter End: 
+Action: Deployed
+Sounding: 151.12
+Sample ID: 514250
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-01 | 212707 | 43 15.6297 N | 69 33.3057 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 01/Apr/2025 23:03:40
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 106
+Date: Tue, 01 Apr 2025 21:32:09 +0000
+Reply to: 107
+In reply to: 105
+Event: 035
+Station: YL_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 03482
+Flowmeter End: 
+Action: Bottom
+Sounding: 151.12
+Sample ID: 514250
+End_Sample_ID: 
+Wire out: 142
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-01 | 213208 | 43 15.6198 N | 69 33.3864 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 107
+Date: Tue, 01 Apr 2025 21:36:32 +0000
+In reply to: 106
+Event: 035
+Station: YL_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 03482
+Flowmeter End: 03930
+Action: Recovered
+Sounding: 153.82
+Sample ID: 514250
+End_Sample_ID: 
+Wire out: 142
+Wire Angle: 12
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-01 | 213631 | 43 15.6246 N | 69 33.4113 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 01/Apr/2025 21:57:53
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 108
+Date: Tue, 01 Apr 2025 21:42:22 +0000
+Reply to: 109
+Event: 036
+Station: YL_08
+Instrument: CTD
+Attached: pH(remove 1000m) | Nitrate(remove 1200m)
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 153.24
+Sample ID: 514251
+End_Sample_ID: 514261
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-01 | 214221 | 43 15.6809 N | 69 33.3884 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 109
+Date: Tue, 01 Apr 2025 21:52:01 +0000
+Reply to: 110
+In reply to: 108
+Event: 036
+Station: YL_08
+Instrument: CTD
+Attached: pH(remove 1000m) | Nitrate(remove 1200m)
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 163.82
+Sample ID: 514251
+End_Sample_ID: 514261
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-01 | 215200 | 43 15.7178 N | 69 33.4940 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 110
+Date: Tue, 01 Apr 2025 22:09:58 +0000
+In reply to: 109
+Event: 036
+Station: YL_08
+Instrument: CTD
+Attached: pH(remove 1000m) | Nitrate(remove 1200m)
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 163.25
+Sample ID: 514251
+End_Sample_ID: 514261
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: misfire on bottle 6 sample ID 514256
+Time|Position: 2025-04-01 | 220957 | 43 15.6599 N | 69 33.7385 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 01/Apr/2025 22:35:20
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
