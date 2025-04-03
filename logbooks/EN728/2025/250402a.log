@@ -2002,7 +2002,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 07216
 Flowmeter End: 
-Action: Deployed
+Action: Bottom
 Sounding: 192.78
 Sample ID: 514357
 End_Sample_ID: 
@@ -2027,7 +2027,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 03/Apr/2025 01:29:58
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2067,13 +2067,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: crossbow slid down - sample kept for teaching only
 Time|Position: 2025-04-02 | 233112 | 42 37.2724 N | 67 44.2708 W
 Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 02/Apr/2025 23:37:30
+Revisions: 03/Apr/2025 01:33:23
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2096,7 +2096,7 @@ Flowmeter Start: 32122
 Flowmeter End: 
 Action: Deployed
 Sounding: 193.52
-Sample ID: 
+Sample ID: 514370
 End_Sample_ID: 
 Wire out: 
 Wire Angle: 
@@ -2119,7 +2119,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 03/Apr/2025 02:38:45
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2143,10 +2143,10 @@ Flowmeter Start: 32122
 Flowmeter End: 
 Action: Bottom
 Sounding: 196.67
-Sample ID: 
+Sample ID: 514370
 End_Sample_ID: 
 Wire out: 189
-Wire Angle: 
+Wire Angle: 5
 Net Clogging: 
 Wind Direction: 
 Wind Speed (nm): 
@@ -2166,7 +2166,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 03/Apr/2025 02:38:25
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

@@ -1,0 +1,14 @@
+$@MID@$: 7
+Date: Thu, 03 Apr 2025 17:37:35 +0000
+Event: 
+Station: NEC_10
+Item: CTD
+Type: Note
+Comment: 
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-03 | 173734 | 42 06.9777 N | 66 02.3990 W
+Attachment: 
+Encoding: HTML
+========================================
+Up to station NEC_10 the CTD had been turned on during the soak period and not before. This only affected Melanie Hardy's casts. The SOP was revised starting at station NEC_09 (event 062) and onward. The data will be assessed to determine if this had any impact on the soak removal.
