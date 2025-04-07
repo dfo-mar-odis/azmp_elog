@@ -741,7 +741,7 @@ Encoding: plain
 
 $@MID@$: 231
 Date: Fri, 04 Apr 2025 22:33:27 +0000
-Reply to: 232, 233, 234
+Reply to: 232, 233, 
 Event: 077
 Station: HL_01
 Instrument: RingNet
@@ -863,52 +863,6 @@ S/N:
 Name: 
 Comment: 
 Time|Position: 2025-04-04 | 223719 | 44 24.0402 N | 63 26.9700 W
-Cruise: EN728
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RV Endeavor
-Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 234
-Date: Fri, 04 Apr 2025 22:37:21 +0000
-In reply to: 231
-Event: 077
-Station: HL_01
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 14457
-Flowmeter End: 
-Action: Recovered
-Sounding: 87.32
-Sample ID: 
-End_Sample_ID: 
-Wire out: 78
-Wire Angle: 5
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Rebecca Milne
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 
-Time|Position: 2025-04-04 | 223720 | 44 24.0402 N | 63 26.9699 W
 Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
