@@ -1,7 +1,7 @@
 $@MID@$: 307
 Date: Mon, 07 Apr 2025 03:34:11 +0000
 Reply to: 308
-Event: 103
+Event: 102
 Station: GUL_04
 Instrument: RingNet
 Attached: 202um | Flowmeter
@@ -34,7 +34,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 07/Apr/2025 07:43:44
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -48,7 +48,7 @@ $@MID@$: 308
 Date: Mon, 07 Apr 2025 04:07:34 +0000
 Reply to: 309
 In reply to: 307
-Event: 103
+Event: 102
 Station: GUL_04
 Instrument: RingNet
 Attached: 202um | Flowmeter
@@ -81,7 +81,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 07/Apr/2025 07:43:54
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -94,7 +94,7 @@ Encoding: plain
 $@MID@$: 309
 Date: Mon, 07 Apr 2025 04:38:09 +0000
 In reply to: 308
-Event: 103
+Event: 102
 Station: GUL_04
 Instrument: RingNet
 Attached: 202um | Flowmeter
@@ -127,7 +127,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 07/Apr/2025 05:05:12
+Revisions: 07/Apr/2025 07:44:01
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
