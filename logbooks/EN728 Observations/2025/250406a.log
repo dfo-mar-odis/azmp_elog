@@ -1,0 +1,28 @@
+$@MID@$: 10
+Date: Sun, 06 Apr 2025 18:54:23 +0000
+Event: 
+Station: 
+Item: Flow Through System
+Type: Problem
+Comment: pump shutdown - no flow
+Author: Adam Hartling
+Revisions: 
+Time|Position: 2025-04-06 | 185421 | 42 56.7299 N | 60 29.0451 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 11
+Date: Sun, 06 Apr 2025 20:36:12 +0000
+Event: 
+Station: 
+Item: Flow Through System
+Type: 
+Comment: flow resumed @ 19:07
+Author: Adam Hartling
+Revisions: 
+Time|Position: 2025-04-06 | 203610 | 43 06.8891 N | 60 10.1865 W
+Attachment: 
+Encoding: HTML
+========================================
+
