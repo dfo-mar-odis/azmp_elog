@@ -382,7 +382,7 @@ Flowmeter Start: 40969
 Flowmeter End: 
 Action: Deployed
 Sounding: 1625.17
-Sample ID: 514817
+Sample ID: 
 End_Sample_ID: 
 Wire out: 1000
 Wire Angle: 
@@ -405,7 +405,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 08/Apr/2025 05:24:22
+Revisions: 08/Apr/2025 09:22:54
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -429,7 +429,7 @@ Flowmeter Start: 40969
 Flowmeter End: 
 Action: Bottom
 Sounding: 1624.55
-Sample ID: 514817
+Sample ID: 
 End_Sample_ID: 
 Wire out: 1000
 Wire Angle: 
@@ -452,7 +452,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 08/Apr/2025 05:24:22
+Revisions: 08/Apr/2025 09:23:09
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -475,7 +475,7 @@ Flowmeter Start: 40969
 Flowmeter End: 
 Action: Aborted
 Sounding: 1639.32
-Sample ID: 514817
+Sample ID: 
 End_Sample_ID: 
 Wire out: 1000
 Wire Angle: 5
@@ -498,7 +498,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 08/Apr/2025 08:04:57
+Revisions: 08/Apr/2025 09:23:20
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
