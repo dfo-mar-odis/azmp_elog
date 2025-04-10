@@ -1,0 +1,70 @@
+$@MID@$: 16
+Date: Thu, 10 Apr 2025 12:32:18 +0000
+Event: 
+Station: LCM_08
+Item: Flow Through System
+Type: Note
+Comment: 
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-10 | 123217 | 44 54.8291 N | 56 27.9478 W
+Attachment: 
+Encoding: HTML
+========================================
+Switched inflow to underway system from the impeller pump to the diaphragm pump as the impeller pump continued to shut off. No impacts to the IFCB are expected as the underway is connected to the outflow from the IFCB, and the flow rate to the underway is better than it was when using the impeller pump. Consider this set up if we use the vessel next year.
+$@MID@$: 17
+Date: Thu, 10 Apr 2025 15:30:07 +0000
+Event: 
+Station: LCM_08
+Item: Flow Through System
+Type: Note
+Comment: Underway turned off while transiting through french EEZ
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-10 | 153005 | 44 57.9531 N | 56 10.9169 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 18
+Date: Thu, 10 Apr 2025 15:31:03 +0000
+Event: 
+Station: LCM_08
+Item: VMADCP
+Type: Note
+Comment: ADCPs turned off while transiting through french EEZ
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-10 | 153101 | 44 58.0290 N | 56 10.7254 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 19
+Date: Thu, 10 Apr 2025 15:46:44 +0000
+Event: 
+Station: LCM_09
+Item: Flow Through System
+Type: Note
+Comment: Diaphragm pump turned back on, back in Canadian waters
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-10 | 154642 | 44 58.9100 N | 56 08.3175 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 20
+Date: Thu, 10 Apr 2025 20:51:20 +0000
+Event: 
+Station: 
+Item: Flow Through System
+Type: Note
+Comment: 
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-10 | 205118 | 44 54.4228 N | 56 08.6034 W
+Attachment: 
+Encoding: HTML
+========================================
+Flow through acquisition and ADCP turned off while we transit through french EEZ.
