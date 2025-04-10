@@ -837,7 +837,7 @@ Date: Sun, 30 Mar 2025 14:19:06 +0000
 Reply to: 32
 In reply to: 29
 Event: 011
-Station: BBL_03
+Station: BB_03
 Instrument: CTD
 Attached: pH(remove 1000m) | Nitrate(remove 1200m)
 Number_of_Bottles: 
@@ -847,7 +847,7 @@ Flowmeter End:
 Action: Bottom
 Sounding: 107.08
 Sample ID: 514069
-End_Sample_ID: 
+End_Sample_ID: 514082
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -869,7 +869,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 09/Apr/2025 05:45:22
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -929,7 +929,7 @@ $@MID@$: 32
 Date: Sun, 30 Mar 2025 14:40:50 +0000
 In reply to: 30
 Event: 011
-Station: BBL_03
+Station: BB_03
 Instrument: CTD
 Attached: pH(remove 1000m) | Nitrate(remove 1200m)
 Number_of_Bottles: 
@@ -939,7 +939,7 @@ Flowmeter End:
 Action: Recovered
 Sounding: 107.36
 Sample ID: 514069
-End_Sample_ID: 
+End_Sample_ID: 514082
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -961,7 +961,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 
+Revisions: 09/Apr/2025 05:45:49
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
