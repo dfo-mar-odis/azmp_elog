@@ -1,0 +1,973 @@
+$@MID@$: 450
+Date: Fri, 11 Apr 2025 07:09:35 +0000
+Reply to: 451
+Event: 152
+Station: LL_09
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 51803
+Flowmeter End: 
+Action: Deployed
+Sounding: 3684.26
+Sample ID: 514979
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 070933 | 43 28.4774 N | 57 31.4739 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 451
+Date: Fri, 11 Apr 2025 07:42:43 +0000
+Reply to: 453
+In reply to: 450
+Event: 152
+Station: LL_09
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 51803
+Flowmeter End: 
+Action: Bottom
+Sounding: 3732.86
+Sample ID: 514979
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 074241 | 43 28.5251 N | 57 31.2471 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 452
+Date: Fri, 11 Apr 2025 08:10:07 +0000
+Reply to: 454
+Event: 153
+Station: LL_09
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 3730.88
+Sample ID: 514980
+End_Sample_ID: 515000
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 081005 | 43 28.5978 N | 57 31.0144 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 11/Apr/2025 19:24:18
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 453
+Date: Fri, 11 Apr 2025 08:19:27 +0000
+In reply to: 451
+Event: 152
+Station: LL_09
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 51803
+Flowmeter End: 
+Action: Recovered
+Sounding: 3732.83
+Sample ID: 514979
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 081924 | 43 28.6459 N | 57 30.9116 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 454
+Date: Fri, 11 Apr 2025 09:19:56 +0000
+Reply to: 455
+In reply to: 452
+Event: 153
+Station: LL_09
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 3728.66
+Sample ID: 514980
+End_Sample_ID: 515000
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 091954 | 43 28.6085 N | 57 30.4714 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 11/Apr/2025 19:24:38
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 455
+Date: Fri, 11 Apr 2025 10:49:29 +0000
+In reply to: 454
+Event: 153
+Station: LL_09
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 3729.26
+Sample ID: 514980
+End_Sample_ID: 515000
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 104927 | 43 28.4341 N | 57 29.8532 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 11/Apr/2025 19:24:52
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 456
+Date: Fri, 11 Apr 2025 10:52:50 +0000
+Reply to: 457
+Event: 154
+Station: LL_09
+Instrument: ARGO
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Plugs Removed
+Sounding: 3732.86
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 105248 | 43 28.4156 N | 57 29.8307 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 457
+Date: Fri, 11 Apr 2025 10:53:08 +0000
+Reply to: 458
+In reply to: 456
+Event: 154
+Station: LL_09
+Instrument: ARGO
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Magnet Removed
+Sounding: 3734.03
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 105306 | 43 28.4104 N | 57 29.8323 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 458
+Date: Fri, 11 Apr 2025 10:58:27 +0000
+In reply to: 457
+Event: 154
+Station: LL_09
+Instrument: ARGO
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 3734.06
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 105824 | 43 28.3133 N | 57 29.9012 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 459
+Date: Fri, 11 Apr 2025 13:52:15 +0000
+Reply to: 460
+Event: 155
+Station: LL_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 54980
+Flowmeter End: 
+Action: Deployed
+Sounding: 2873.54
+Sample ID: 515001
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 135212 | 43 47.0782 N | 57 50.0423 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 460
+Date: Fri, 11 Apr 2025 14:25:18 +0000
+Reply to: 461
+In reply to: 459
+Event: 155
+Station: LL_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 54980
+Flowmeter End: 
+Action: Bottom
+Sounding: 2914.58
+Sample ID: 515001
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 142516 | 43 47.2071 N | 57 50.1693 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 461
+Date: Fri, 11 Apr 2025 14:48:22 +0000
+In reply to: 460
+Event: 155
+Station: LL_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 54980
+Flowmeter End: 57954
+Action: Recovered
+Sounding: 2946.14
+Sample ID: 515001
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 7
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 144820 | 43 47.3069 N | 57 50.3395 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 462
+Date: Fri, 11 Apr 2025 14:56:30 +0000
+Reply to: 463
+Event: 156
+Station: LL_08
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 2948.55
+Sample ID: 515002
+End_Sample_ID: 515018
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 145628 | 43 47.3461 N | 57 50.3996 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 463
+Date: Fri, 11 Apr 2025 15:55:35 +0000
+Reply to: 464
+In reply to: 462
+Event: 156
+Station: LL_08
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 2943.78
+Sample ID: 515002
+End_Sample_ID: 515018
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 155533 | 43 47.7071 N | 57 50.9671 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 464
+Date: Fri, 11 Apr 2025 17:07:16 +0000
+In reply to: 463
+Event: 156
+Station: LL_08
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 2857.57
+Sample ID: 515002
+End_Sample_ID: 515018
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 170713 | 43 48.0997 N | 57 50.7401 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 465
+Date: Fri, 11 Apr 2025 19:52:48 +0000
+Reply to: 466
+Event: 157
+Station: LL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57958
+Flowmeter End: 
+Action: Deployed
+Sounding: 1053.71
+Sample ID: 515019
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 195247 | 44 08.0598 N | 58 10.4444 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 466
+Date: Fri, 11 Apr 2025 20:17:53 +0000
+Reply to: 467
+In reply to: 465
+Event: 157
+Station: LL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57958
+Flowmeter End: 
+Action: Bottom
+Sounding: 827.22
+Sample ID: 515019
+End_Sample_ID: 
+Wire out: 760
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 201752 | 44 08.2470 N | 58 10.6467 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 467
+Date: Fri, 11 Apr 2025 20:34:33 +0000
+In reply to: 466
+Event: 157
+Station: LL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57958
+Flowmeter End: 60317
+Action: Recovered
+Sounding: 786.15
+Sample ID: 515019
+End_Sample_ID: 
+Wire out: 760
+Wire Angle: 7
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 203431 | 44 08.3795 N | 58 10.8062 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 11/Apr/2025 22:26:18
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 468
+Date: Fri, 11 Apr 2025 20:50:59 +0000
+Reply to: 469
+Event: 158
+Station: LL_07
+Instrument: CTD
+Attached: pH(remove 1000m) | Nitrate(remove 1200m)
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 741.14
+Sample ID: 515020
+End_Sample_ID: 515040
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 205058 | 44 07.9618 N | 58 10.5801 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 469
+Date: Fri, 11 Apr 2025 21:12:18 +0000
+Reply to: 470
+In reply to: 468
+Event: 158
+Station: LL_07
+Instrument: CTD
+Attached: pH(remove 1000m) | Nitrate(remove 1200m)
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 736.92
+Sample ID: 515020
+End_Sample_ID: 515040
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 211217 | 44 08.0881 N | 58 10.8838 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 470
+Date: Fri, 11 Apr 2025 21:43:23 +0000
+In reply to: 469
+Event: 158
+Station: LL_07
+Instrument: CTD
+Attached: pH(remove 1000m) | Nitrate(remove 1200m)
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 664.20
+Sample ID: 515020
+End_Sample_ID: 515040
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-04-11 | 214321 | 44 08.3252 N | 58 11.2730 W
+Cruise: EN728
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RV Endeavor
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
