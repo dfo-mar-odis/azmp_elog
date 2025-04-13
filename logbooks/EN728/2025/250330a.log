@@ -837,7 +837,7 @@ Date: Sun, 30 Mar 2025 14:19:06 +0000
 Reply to: 32
 In reply to: 29
 Event: 011
-Station: BB_03
+Station: BBL_03
 Instrument: CTD
 Attached: pH(remove 1000m) | Nitrate(remove 1200m)
 Number_of_Bottles: 
@@ -869,7 +869,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 09/Apr/2025 05:45:22
+Revisions: 13/Apr/2025 23:50:01
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -929,7 +929,7 @@ $@MID@$: 32
 Date: Sun, 30 Mar 2025 14:40:50 +0000
 In reply to: 30
 Event: 011
-Station: BB_03
+Station: BBL_03
 Instrument: CTD
 Attached: pH(remove 1000m) | Nitrate(remove 1200m)
 Number_of_Bottles: 
@@ -961,7 +961,7 @@ Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 09/Apr/2025 05:45:49
+Revisions: 13/Apr/2025 23:49:29
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1465,13 +1465,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: Submitted late - actual bottom time 2037
-Time|Position: 2025-03-30 | 204344 | 42 07.5499 N | 65 29.4020 W
+Comment: Submitted late - actual bottom time 2037 fixed from 204344 but position may be off
+Time|Position: 2025-03-30 | 203744 | 42 07.5499 N | 65 29.4020 W
 Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 30/Mar/2025 20:45:23
+Revisions: 13/Apr/2025 23:48:31
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

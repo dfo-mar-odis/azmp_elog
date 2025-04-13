@@ -538,13 +538,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: Submitted late - actual recovery time 0408 utc
-Time|Position: 2025-04-02 | 052217 | 43 05.9554 N | 70 09.1289 W
+Comment: Submitted late - actual recovery time 0408 utc fixed from 052217 but position maybe off
+Time|Position: 2025-04-02 | 040817 | 43 05.9554 N | 70 09.1289 W
 Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 02/Apr/2025 05:23:20
+Revisions: 13/Apr/2025 23:46:54
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

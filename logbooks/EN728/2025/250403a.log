@@ -1557,13 +1557,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: time should be 1701200. hit early.
-Time|Position: 2025-04-03 | 170629 | 42 06.9823 N | 66 02.3723 W
+Comment: time should be 1701200. hit early. fixed time from  170629, but position may be off
+Time|Position: 2025-04-03 | 1701200 | 42 06.9823 N | 66 02.3723 W
 Cruise: EN728
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RV Endeavor
-Revisions: 03/Apr/2025 17:12:43
+Revisions: 13/Apr/2025 23:45:30
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
