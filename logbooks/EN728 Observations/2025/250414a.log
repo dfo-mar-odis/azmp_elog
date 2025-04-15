@@ -1,0 +1,28 @@
+$@MID@$: 21
+Date: Mon, 14 Apr 2025 13:58:55 +0000
+Event: 
+Station: 
+Item: Flow Through System
+Type: Problem
+Comment: 
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-14 | 135853 | 45 37.0690 N | 59 37.5871 W
+Attachment: 
+Encoding: HTML
+========================================
+Starting at 08:12 UTC on Monday April 14, the impeller pump shut off. The breaker sparked when trying to turn it back on. The diaphragm pump uses the intake temperature from the impeller pump, so if the impeller pump is down it means that the intake temperature is reading stagnant water.
+$@MID@$: 22
+Date: Mon, 14 Apr 2025 15:27:32 +0000
+Event: 
+Station: 
+Item: Flow Through System
+Type: Note
+Comment: 
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-14 | 152730 | 45 21.9202 N | 59 39.1867 W
+Attachment: 
+Encoding: HTML
+========================================
+Temperature from transducer intake, which is also at 5 m depth, has now been fed into the BIO underway system to replace the intake temperature from the impeller pump.
