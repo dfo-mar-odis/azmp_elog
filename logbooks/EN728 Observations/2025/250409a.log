@@ -1,0 +1,45 @@
+$@MID@$: 13
+Date: Wed, 09 Apr 2025 17:49:08 +0000
+Reply to: 14, 15
+Event: 
+Station: LCM_01
+Item: Flow Through System
+Type: Problem
+Comment: The impeller pump suddenly shut off to the underway system. Being resolved by engineers.
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-09 | 174906 | 44 38.7288 N | 57 42.0232 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 14
+Date: Wed, 09 Apr 2025 17:58:01 +0000
+In reply to: 13
+Event: 
+Station: LCM_01
+Item: Flow Through System
+Type: Resolved
+Comment: The engineer fixed the electrical for the pump and it was quickly turned back on.
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-09 | 175759 | 44 39.1721 N | 57 41.6945 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 15
+Date: Wed, 09 Apr 2025 17:58:02 +0000
+In reply to: 13
+Event: 
+Station: LCM_01
+Item: Flow Through System
+Type: Resolved
+Comment: The engineer fixed the electrical for the pump and it was quickly turned back on.
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2025-04-09 | 175800 | 44 39.1728 N | 57 41.6938 W
+Attachment: 
+Encoding: HTML
+========================================
+
