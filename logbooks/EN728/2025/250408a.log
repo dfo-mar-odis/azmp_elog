@@ -14,7 +14,7 @@ Action: Bottom
 Sounding: 601.59
 Sample ID: 514786
 End_Sample_ID: 514801
-Wire out: Suspect true bottom was closer to 700 - echosounder was reading 600 but altimeter had no reading at 590. Suspect echosounder with wide cone of observation read up the canyon wall. Stayed above 600 as this also indicates we would have been close to hitting the side wall below that depth. 
+Wire out: 
 Wire Angle: 
 Net Clogging: 
 Wind Direction: 
@@ -29,7 +29,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Suspect true bottom was closer to 700 - echosounder was reading 600 but altimeter had no reading at 590. Suspect echosounder with wide cone of observation read up the canyon wall. Stayed above 600 as this also indicates we would have been close to hitting the side wall below that depth. 
 Time|Position: 2025-04-08 | 000145 | 44 05.9617 N | 59 06.4348 W
 Cruise: EN728
 PI: Lindsay Beazley
@@ -60,7 +60,7 @@ Action: Recovered
 Sounding: 694.44
 Sample ID: 514786
 End_Sample_ID: 514801
-Wire out: Suspect true bottom was closer to 700 - echosounder was reading 600 but altimeter had no reading at 590. Suspect echosounder with wide cone of observation read up the canyon wall. Stayed above 600 as this also indicates we would have been close to hitting the side wall below that depth. 
+Wire out:
 Wire Angle: 
 Net Clogging: 
 Wind Direction: 
@@ -75,7 +75,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Suspect true bottom was closer to 700 - echosounder was reading 600 but altimeter had no reading at 590. Suspect echosounder with wide cone of observation read up the canyon wall. Stayed above 600 as this also indicates we would have been close to hitting the side wall below that depth. 
 Time|Position: 2025-04-08 | 003105 | 44 05.8774 N | 59 06.6104 W
 Cruise: EN728
 PI: Lindsay Beazley
