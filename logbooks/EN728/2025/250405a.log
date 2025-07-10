@@ -1814,7 +1814,7 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 60981
+Flowmeter Start: 18609
 Flowmeter End: 
 Action: Deployed
 Sounding: 953.15
@@ -1861,7 +1861,7 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 60981
+Flowmeter Start: 18609
 Flowmeter End: 
 Action: Bottom
 Sounding: 1101.26
@@ -1907,7 +1907,7 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 60981
+Flowmeter Start: 18609
 Flowmeter End: 21798
 Action: Recovered
 Sounding: 1080.01
