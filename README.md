@@ -9,17 +9,42 @@
     * This will create a branch for the config and log files for the mission
 6. copy the sample.cfg and rename the copy to 'elog.conf'
     * Remove the existing elog.conf if it exists, it may contain specalized code for a previous mission
-8. Open the elog.cfg and, using a mass find and replace, replace the `SAMPLE_MISSION_NAME` string where it appears with the actual mission name
-9. Update the `--- MetaData ---` section setting the Pi, protocol, platform and cruise dates as required
-10. update port numbers for time/position and sounding and potientially the timeout value depending on the ship. This information will have be provided by the ship.
+7. Open the elog.cfg and, using a mass find and replace, replace the `SAMPLE_MISSION_NAME` string where it appears with the actual mission name
+8. Update the `--- MetaData ---` section setting the Pi, protocol, platform and cruise dates as required:
+   
+9. Update the scraper that takes the time/position from the ship, in the following example:
+    * The port was changed from `4004` to `16002`
+```
+ - Preset Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 4004 -t 8)
+ - Preset on reply Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 4004 -t 8)
+ + Preset Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 16002 -t 8)
+ + Preset on reply Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 16002 -t 8)
+ 
+ - Subst Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 4004 -t 8)
+ - Subst on reply Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 4004 -t 8)
+ + Subst Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 16002 -t 8)
+ + Subst on reply Time|Position = $shell(.\azmp_elog\Scripts\print_nmea_gps.exe 16002 -t 8)
+ ```
+10. Update the scraper that takes the sounding sounding from ship. This information will have to be provided by the ship, in the following example:
+   * The Network port was changed from `6003` to `16008`
+   * The sounder string was changed from `DBDBS` to `PKEL99`
+   * The PKEL99 string used column 6 (`-c 6`) of the NMEA string for the sounding whereas `DBDBS` uses the default column.
+   * The "depth of the sounder below water" was updated from 6.34 meters to 5 meters (`-d 5`).
+   * The timeout was left at (`-t 8`). Timeout is the number of seconds Elog will listen for a NMEA string before returning. If the sounder isn't working, it will be impossible to log an elog event if there's no time out. Some ships may have a higher rate of return on their sounder than others, but 8 seconds seems to be the maximum a CTD operator would want to wait if there were issues during a logging event.
+```
+- Preset Sounding = $shell(.\azmp_elog\Scripts\print_nmea_depth.exe 6003 DBDBS -d 6.34 -t 8)
+- Preset on Reply Sounding = $shell(.\azmp_elog\Scripts\print_nmea_depth.exe 6003 DBDBS -d 6.34 -t 8)
++ Preset Sounding = $shell(.\azmp_elog\Scripts\print_nmea_depth.exe -c 6 16008 PKEL99 -d 5 -t 8)
++ Preset on Reply Sounding = $shell(.\azmp_elog\Scripts\print_nmea_depth.exe -c 6 16008 PKEL99 -d 5 -t 8)
+```
 11. In the command window run:
    * `git add .` to add the new/renamed file to the git tracker
    * `git commit -a -m "Initial commit for [mission name here]"` to save the changes to the file to the git repo
    * **Note:** Make sure to leave meaningful messages, you might need them later
-11. When the config file or log files need to be updated make sure to run:
+12. When the config file or log files need to be updated make sure to run:
     * `git add .` to add all files to the git tracker
     * `git commit -a -m "[what did you just do!]"` to save the state of the files in the git repo before making changes
-12. At the end of the mission use `git push origin [name of your mission]` to push the config and log files up to github where they can be accessed by others.
+13. At the end of the mission use `git push origin [name of your mission]` to push the config and log files up to github where they can be accessed by others.
 
 # Starting the elog server
 
