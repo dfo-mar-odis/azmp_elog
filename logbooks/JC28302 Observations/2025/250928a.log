@@ -26,3 +26,31 @@ Attachment:
 Encoding: HTML
 ========================================
 
+$@MID@$: 3
+Date: Sun, 28 Sep 2025 16:07:32 +0000
+Event: turn on TSG
+Station: HL_00
+Item: Flow Through System
+Type: Note
+Comment: turn the TSG on 14:10 GMT
+Author: Diana Cardoso
+Revisions: 28/Sep/2025 16:12:44
+Time|Position: 2025-09-28 | 160732.0017 | 44 16.17275 N | 63 19.01195 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 4
+Date: Sun, 28 Sep 2025 16:10:58 +0000
+Event: turn on pCO2
+Station: HL_02
+Item: Flow Through System
+Type: Note
+Comment: turn on shipboard pCO2  2025-09-28 14:33:20
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-09-28 | 161058.0001 | 44 15.90997 N | 63 19.20265 W
+Attachment: 
+Encoding: HTML
+========================================
+
