@@ -1,0 +1,231 @@
+$@MID@$: 12
+Date: Mon, 29 Sep 2025 16:28:36 +0000
+Reply to: 13
+Event: 005
+Station: GMB
+Instrument: Recover Mooring
+Attached: MicroCAT | Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Attempt Comms
+Sounding: 183.28
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Diana Cardoso
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: soundtraps used not amars 
+Time|Position: 2025-09-29 | 162836.0050 | 44 40.39014 N | 66 31.66667 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 29/Sep/2025 18:06:37
+Mooring Number: 2308
+Number of RCMs: 
+Number of MicroCATs: 1
+Number of Temperature Recorders: 
+Number of Amars: 2
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 13
+Date: Mon, 29 Sep 2025 16:31:35 +0000
+Reply to: 14
+In reply to: 12
+Event: 005
+Station: GMB
+Instrument: Recover Mooring
+Attached: MicroCAT | Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Release
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Diana Cardoso
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: soundtraps used not amars 
+Time|Position: 2025-09-29 | 163135.0048 | 44 40.38995 N | 66 31.66846 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 29/Sep/2025 18:06:59
+Mooring Number: 2308
+Number of RCMs: 
+Number of MicroCATs: 1
+Number of Temperature Recorders: 
+Number of Amars: 2
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 14
+Date: Mon, 29 Sep 2025 16:47:19 +0000
+In reply to: 13
+Event: 005
+Station: GMB
+Instrument: Recover Mooring
+Attached: MicroCAT | Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: On Deck
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Diana Cardoso
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: soundtraps used not amars 
+Time|Position: 2025-09-29 | 164719.0005 | 44 40.43929 N | 66 31.72802 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 29/Sep/2025 18:07:12
+Mooring Number: 2308
+Number of RCMs: 
+Number of MicroCATs: 1
+Number of Temperature Recorders: 
+Number of Amars: 2
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 15
+Date: Mon, 29 Sep 2025 16:58:01 +0000
+Reply to: 16
+Event: 006
+Station: GMB
+Instrument: Deploy Mooring
+Attached: MicroCAT | Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Start Deployment
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Diana Cardoso
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: soundtraps used not amars 
+Time|Position: 2025-09-29 | 165801.0019 | 44 40.37796 N | 66 31.85698 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 29/Sep/2025 18:09:18
+Mooring Number: 2317
+Number of RCMs: 
+Number of MicroCATs: 1
+Number of Temperature Recorders: 
+Number of Amars: 2
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 16
+Date: Mon, 29 Sep 2025 17:16:43 +0000
+In reply to: 15
+Event: 006
+Station: GMB
+Instrument: Deploy Mooring
+Attached: MicroCAT | Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Anchor Away
+Sounding: 183.1
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Diana Cardoso
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: soundtraps used not amars 
+Time|Position: 2025-09-29 | 171643.0034 | 44 40.37854 N | 66 31.85389 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 29/Sep/2025 18:19:53
+Mooring Number: 2317
+Number of RCMs: 
+Number of MicroCATs: 1
+Number of Temperature Recorders: 
+Number of Amars: 2
+Attachment: 
+Encoding: plain
+========================================
+
