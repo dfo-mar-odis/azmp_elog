@@ -5,7 +5,7 @@ In reply to: 56
 Event: 020
 Station: YL_07
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -51,7 +51,7 @@ In reply to: 57
 Event: 020
 Station: YL_07
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -283,7 +283,7 @@ In reply to: 62
 Event: 022
 Station: YL_08
 Instrument: CTD
-Attached: pH | SBE35 | pH | SBE35 | SUNA
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -329,7 +329,7 @@ In reply to: 63
 Event: 022
 Station: YL_08
 Instrument: CTD
-Attached: pH | SBE35 | pH | SBE35 | SUNA
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 

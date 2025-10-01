@@ -4,7 +4,7 @@ Reply to: 2
 Event: 001
 Station: HL_02
 Instrument: CTD
-Attached: pH
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -51,7 +51,7 @@ In reply to: 1
 Event: 001
 Station: HL_02
 Instrument: CTD
-Attached: pH
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -97,7 +97,7 @@ In reply to: 2
 Event: 001
 Station: HL_02
 Instrument: CTD
-Attached: pH
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 

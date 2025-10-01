@@ -4,7 +4,7 @@ Reply to: 18
 Event: 007
 Station: YL_01
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -51,7 +51,7 @@ In reply to: 17
 Event: 007
 Station: YL_01
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -97,7 +97,7 @@ In reply to: 18
 Event: 007
 Station: YL_01
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -282,7 +282,7 @@ Reply to: 24
 Event: 009
 Station: YL_02
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -329,7 +329,7 @@ In reply to: 23
 Event: 009
 Station: YL_02
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -375,7 +375,7 @@ In reply to: 24
 Event: 009
 Station: YL_02
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -560,7 +560,7 @@ Reply to: 30
 Event: 011
 Station: YL_03
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -607,7 +607,7 @@ In reply to: 29
 Event: 011
 Station: YL_03
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -653,7 +653,7 @@ In reply to: 30
 Event: 011
 Station: YL_03
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -838,7 +838,7 @@ Reply to: 36
 Event: 013
 Station: YL_04
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -885,7 +885,7 @@ In reply to: 35
 Event: 013
 Station: YL_04
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -931,7 +931,7 @@ In reply to: 36
 Event: 013
 Station: YL_04
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1115,7 +1115,7 @@ Reply to: 42
 Event: 015
 Station: YL_05
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1162,7 +1162,7 @@ In reply to: 41
 Event: 015
 Station: YL_05
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1208,7 +1208,7 @@ In reply to: 42
 Event: 015
 Station: YL_05
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1532,7 +1532,7 @@ Reply to: 51
 Event: 018
 Station: YL_06
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1579,7 +1579,7 @@ In reply to: 50
 Event: 018
 Station: YL_06
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1625,7 +1625,7 @@ In reply to: 51
 Event: 018
 Station: YL_06
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -1810,7 +1810,7 @@ Reply to: 57
 Event: 020
 Station: YL_07
 Instrument: CTD
-Attached: pH | SBE35
+Attached: pH | SBE35 | SUNA
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
