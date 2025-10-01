@@ -1188,13 +1188,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: Very choppy out. 5 m was the best we could do for surface bottle
+Comment: Very choppy out. 5 m was the best we could do for surface bottle. Bottle 3 didn't seal. CTD techs will swap it out.
 Time|Position: 2025-10-01 | 125029.0008 | 43 02.00658 N | 70 00.51318 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 13:51:16
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
