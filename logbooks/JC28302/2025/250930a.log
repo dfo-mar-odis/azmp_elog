@@ -1603,13 +1603,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
-Time|Position: 2025-09-30 | 202125.0047 | 43 23.91233 N | 68 39.84690 W
+Comment: bottom recorded late :  actual time 20:08:44.99 changed time field
+Time|Position: 2025-09-30 | 200844.0000 | 43 23.91233 N | 68 39.84690 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 30/Sep/2025 23:11:40
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1790,6 +1790,52 @@ S/N:
 Name: 
 Comment: 
 Time|Position: 2025-09-30 | 213830.0046 | 43 23.91298 N | 68 39.84722 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 56
+Date: Tue, 30 Sep 2025 23:58:21 +0000
+Reply to: 57
+Event: 020
+Station: YL_07
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 155.38
+Sample ID: 521393
+End_Sample_ID: 521410
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-09-30 | 235821.0026 | 43 19.70231 N | 69 06.38044 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
