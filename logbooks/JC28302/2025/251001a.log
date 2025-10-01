@@ -521,8 +521,8 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Deployed
 Sounding: 102.24
-Sample ID: 421423
-End_Sample_ID: 421430
+Sample ID: 521423
+End_Sample_ID: 521430
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -538,13 +538,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: entered wrong IDs. Should have been 521 not 421
 Time|Position: 2025-10-01 | 072353.0040 | 43 11.16303 N | 70 00.59450 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 08:42:07
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -568,8 +568,8 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Bottom
 Sounding: 89.68
-Sample ID: 421423
-End_Sample_ID: 421430
+Sample ID: 521423
+End_Sample_ID: 521430
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -585,13 +585,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: entered wrong IDs. Should have been 521 not 421
 Time|Position: 2025-10-01 | 073302.0018 | 43 11.16407 N | 70 00.59416 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 08:42:22
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -614,8 +614,8 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Recovered
 Sounding: 90.12
-Sample ID: 421423
-End_Sample_ID: 421430
+Sample ID: 521423
+End_Sample_ID: 521430
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -631,13 +631,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: entered wrong IDs. Should have been 521 not 421
 Time|Position: 2025-10-01 | 074907.0021 | 43 11.16452 N | 70 00.59536 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 08:42:35
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
