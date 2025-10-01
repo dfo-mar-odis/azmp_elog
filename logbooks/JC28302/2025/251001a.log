@@ -353,13 +353,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Bottle 3 didn't seal completely
 Time|Position: 2025-10-01 | 041324.0010 | 43 15.47833 N | 69 33.46935 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 11:29:23
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -909,13 +909,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Bottles 3 and 10 didn't seal completely.
 Time|Position: 2025-10-01 | 100919.0021 | 43 09.39935 N | 70 16.36014 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 11:28:14
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1049,13 +1049,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Cod end was detached from sandwich clamp at end of tow. Sample looks OK.
 Time|Position: 2025-10-01 | 103007.0006 | 43 09.39935 N | 70 16.36031 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 01/Oct/2025 11:12:25
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1064,3 +1064,4 @@ Number of Amars:
 Attachment: 
 Encoding: plain
 ========================================
+
