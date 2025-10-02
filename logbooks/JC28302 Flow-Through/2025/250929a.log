@@ -1,6 +1,8 @@
 $@MID@$: 1
 Date: Mon, 29 Sep 2025 14:20:21 +0000
 Sample #: 001
+Number of Salt Samples: 
+Number of O2 Samples: 
 Number of pCO2 Samples: 0
 Number of TIC Samples: 0
 Number of Chl_a Samples: 2
@@ -8,14 +10,14 @@ Number of CDOM Samples: 1
 Number of HPLC Samples: 0
 Number of ABS Samples: 0
 Number of Other Samples: 1
-Other Sample/s not Listed: DO
+Other Sample/s not Listed: DO and salt
 Sample ID: 521254
 Paper log Completed: Yes
 Author: Peter Thamer
 Time|Position: 2025-09-29 | 142021.0001 | 44 26.07627 N | 66 24.22159 W
 Mission: JC28302
 PI: Lindsay Beazley
-Revisions: 
+Revisions: 02/Oct/2025 16:35:30
 Attachment: 
 Encoding: HTML
 ========================================
@@ -23,6 +25,8 @@ Encoding: HTML
 $@MID@$: 2
 Date: Mon, 29 Sep 2025 14:22:43 +0000
 Sample #: 002
+Number of Salt Samples: 
+Number of O2 Samples: 
 Number of pCO2 Samples: 0
 Number of TIC Samples: 0
 Number of Chl_a Samples: 2
@@ -30,14 +34,14 @@ Number of CDOM Samples: 1
 Number of HPLC Samples: 0
 Number of ABS Samples: 0
 Number of Other Samples: 1
-Other Sample/s not Listed: DO
+Other Sample/s not Listed: DO and salt
 Sample ID: 521253
 Paper log Completed: Yes
 Author: Melanie Hardy
 Time|Position: 2025-09-29 | 164343.0011 | 44 10.796 N | 63 23.066 W
 Mission: JC28302
 PI: Lindsay Beazley
-Revisions: 29/Sep/2025 14:26:41
+Revisions: 02/Oct/2025 16:35:20
 Attachment: 
 Encoding: HTML
 ========================================
