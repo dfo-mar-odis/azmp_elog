@@ -1943,3 +1943,374 @@ Attachment:
 Encoding: plain
 ========================================
 
+$@MID@$: 188
+Date: Fri, 03 Oct 2025 18:55:31 +0000
+Reply to: 189
+Event: 063
+Station: BBL_07
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 1884
+Sample ID: 521759
+End_Sample_ID: 521782
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 185531.0025 | 41 51.91203 N | 65 20.92531 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 189
+Date: Fri, 03 Oct 2025 20:41:26 +0000
+Reply to: 190
+In reply to: 188
+Event: 063
+Station: BBL_07
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1881.88
+Sample ID: 521759
+End_Sample_ID: 521782
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: LATE BOTTOM SUBMISSION
+Time|Position: 2025-10-03 | 204126.0042 | 41 51.84491 N | 65 20.99706 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 03/Oct/2025 20:42:13
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 190
+Date: Fri, 03 Oct 2025 20:41:57 +0000
+In reply to: 189
+Event: 063
+Station: BBL_07
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 1885.35
+Sample ID: 521759
+End_Sample_ID: 521782
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 204157.0038 | 41 51.84386 N | 65 20.99920 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 191
+Date: Fri, 03 Oct 2025 20:54:48 +0000
+Reply to: 192
+Event: 064
+Station: BBL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 83670
+Flowmeter End: 
+Action: Deployed
+Sounding: 1881.07
+Sample ID: 521783
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 205448.0048 | 41 51.84837 N | 65 20.99644 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 192
+Date: Fri, 03 Oct 2025 21:25:32 +0000
+Reply to: 193
+In reply to: 191
+Event: 064
+Station: BBL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 83670
+Flowmeter End: 
+Action: Bottom
+Sounding: 1881.53
+Sample ID: 521783
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 212532.0012 | 41 51.78910 N | 65 21.15278 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 193
+Date: Fri, 03 Oct 2025 21:47:04 +0000
+In reply to: 192
+Event: 064
+Station: BBL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 83670
+Flowmeter End: 86728
+Action: Recovered
+Sounding: 1879.78
+Sample ID: 521783
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 5
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Melanie Hardy
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 214704.0020 | 41 51.77424 N | 65 21.19230 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 194
+Date: Fri, 03 Oct 2025 23:02:57 +0000
+Reply to: 195
+Event: 065
+Station: BBL_06
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 1088
+Sample ID: 521784
+End_Sample_ID: 521801
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 230257.0015 | 41 59.99935 N | 65 30.59893 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 195
+Date: Fri, 03 Oct 2025 23:36:37 +0000
+Reply to: 196
+In reply to: 194
+Event: 065
+Station: BBL_06
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1084.76
+Sample ID: 521784
+End_Sample_ID: 521801
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-03 | 233637.0005 | 41 59.99956 N | 65 30.59882 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
