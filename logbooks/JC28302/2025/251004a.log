@@ -139,7 +139,6 @@ Encoding: plain
 
 $@MID@$: 199
 Date: Sat, 04 Oct 2025 01:36:26 +0000
-Reply to: 200
 In reply to: 198
 Event: 066
 Station: BBL_06
@@ -168,59 +167,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: 7lb helmet jellyfish!!!!!! 
 Time|Position: 2025-10-04 | 013626.0055 | 41 59.99972 N | 65 30.59889 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 200
-Date: Sat, 04 Oct 2025 02:15:57 +0000
-In reply to: 199
-Event: 066
-Station: BBL_06
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 86729
-Flowmeter End: 89216
-Action: Recovered
-Sounding: 513.01
-Sample ID: 521802
-End_Sample_ID: 
-Wire out: 1000
-Wire Angle: 0
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Melanie Hardy
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 7lb helmet jellyfish!!!!!!
-Time|Position: 2025-10-04 | 021557.0013 | 42 05.96240 N | 65 30.15588 W
-Cruise: JC28302
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS James Cook
-Revisions: 
+Revisions: 05/Oct/2025 08:45:51
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -612,7 +565,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 
 Flowmeter End: 
-Action: Bottom
+Action: Recovered
 Sounding: 103.23
 Sample ID: 521826
 End_Sample_ID: 521838
@@ -637,7 +590,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 05/Oct/2025 08:47:00
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
