@@ -1835,13 +1835,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: LATE BOTTOM SUBMISSION
-Time|Position: 2025-10-04 | 212733.0028 | 42 59.93690 N | 65 29.09771 W
+Comment: LATE BOTTOM SUBMISSION changed from 212733.0028  to  21:07:01.03
+Time|Position: 2025-10-04 | 210701.0003 | 42 59.93690 N | 65 29.09771 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 04/Oct/2025 21:30:26
+Revisions: 04/Oct/2025 23:30:04
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2022,6 +2022,99 @@ S/N:
 Name: 
 Comment: 
 Time|Position: 2025-10-04 | 214749.0020 | 42 59.91880 N | 65 29.23454 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 243
+Date: Sat, 04 Oct 2025 23:40:44 +0000
+Reply to: 244
+Event: 080
+Station: BBL_01
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 67.69
+Sample ID: 521878
+End_Sample_ID: 521889
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Approx 1.2nm SW of station due to fishing buoys.
+Time|Position: 2025-10-04 | 234044.0034 | 43 13.91253 N | 65 28.08353 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 05/Oct/2025 01:06:19
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 244
+Date: Sat, 04 Oct 2025 23:52:31 +0000
+Reply to: 245
+In reply to: 243
+Event: 080
+Station: BBL_01
+Instrument: CTD
+Attached: pH | SBE35 | SUNA
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 67.76
+Sample ID: 521878
+End_Sample_ID: 521889
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Katie Warman
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-04 | 235231.0006 | 43 13.91243 N | 65 28.08336 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
