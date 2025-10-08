@@ -465,7 +465,7 @@ $@MID@$: 386
 Date: Wed, 08 Oct 2025 14:28:45 +0000
 Reply to: 387
 In reply to: 385
-Event: 125
+Event: 126
 Station: LOC
 Instrument: Mooring Communications
 Attached: 
@@ -498,7 +498,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 08/Oct/2025 16:09:25
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -511,7 +511,7 @@ Encoding: plain
 $@MID@$: 387
 Date: Wed, 08 Oct 2025 15:00:43 +0000
 In reply to: 386
-Event: 125
+Event: 126
 Station: LOC
 Instrument: Mooring Communications
 Attached: 
@@ -540,6 +540,98 @@ S/N:
 Name: 
 Comment: communicated, then triangulating, looking for a CEP50 of approx. 10
 Time|Position: 2025-10-08 | 150043.0024 | 43 27.86148 N | 59 57.39839 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 08/Oct/2025 16:09:36
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 388
+Date: Wed, 08 Oct 2025 20:32:29 +0000
+Reply to: 389
+Event: 127
+Station: G03
+Instrument: Recover Mooring
+Attached: Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Attempt Comms
+Sounding: 17.77
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2025-10-08 | 203229.0042 | 44 08.06135 N | 59 13.68089 W
+Cruise: JC28302
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: RRS James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 389
+Date: Wed, 08 Oct 2025 22:00:11 +0000
+In reply to: 388
+Event: 127
+Station: G03
+Instrument: Recover Mooring
+Attached: Underwater Acoustic Recorder
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Aborted
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Tried to release but no confirmation. Can see it via autoscan but will not release. unable to get tilt status.
+Time|Position: 2025-10-08 | 220011.0017 | 44 08.12032 N | 59 13.69093 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
