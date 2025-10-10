@@ -843,7 +843,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: NA
+Sounding: 1670.98
 Sample ID: 522162
 End_Sample_ID: 522182
 Wire out: 
@@ -861,7 +861,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Sounding was NA. Used bottom sounding.
 Time|Position: 2025-10-09 | 090203.0040 | 43 53.30945 N | 58 57.22325 W
 Cruise: JC28302
 PI: Lindsay Beazley
@@ -1585,7 +1585,7 @@ Flowmeter S/N:
 Flowmeter Start: 13718
 Flowmeter End: 
 Action: Bottom
-Sounding: NA
+Sounding: 2076.26
 Sample ID: 522208
 End_Sample_ID: 
 Wire out: 1000
@@ -1603,7 +1603,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Sounding was NA. Used depolyed sounding.
 Time|Position: 2025-10-09 | 204047.0018 | 43 47.01747 N | 58 54.52521 W
 Cruise: JC28302
 PI: Lindsay Beazley
@@ -1631,7 +1631,7 @@ Flowmeter S/N:
 Flowmeter Start: 13718
 Flowmeter End: 17392
 Action: Recovered
-Sounding: NA
+Sounding: 2076.26
 Sample ID: 522208
 End_Sample_ID: 
 Wire out: 1000
@@ -1649,7 +1649,7 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Sounding was NA. Used depolyed sounding
 Time|Position: 2025-10-09 | 210055.0036 | 43 46.96926 N | 58 54.60992 W
 Cruise: JC28302
 PI: Lindsay Beazley
