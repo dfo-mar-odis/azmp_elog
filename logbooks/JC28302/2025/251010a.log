@@ -102,7 +102,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 
 Flowmeter End: 
-Action: Bottom
+Action: Recovered
 Sounding: 31
 Sample ID: 522209
 End_Sample_ID: 522218
@@ -127,7 +127,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 10/Oct/2025 14:15:21
+Revisions: 11/Oct/2025 09:46:06
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -334,7 +334,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Bottom
-Sounding: NA
+Sounding: 45
 Sample ID: 522220
 End_Sample_ID: 522225
 Wire out: 
@@ -352,13 +352,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Using deployed sounding
 Time|Position: 2025-10-10 | 084422.0045 | 44 44.68675 N | 57 28.46658 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 11/Oct/2025 09:45:13
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -380,7 +380,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Recovered
-Sounding: NA
+Sounding: 45
 Sample ID: 522220
 End_Sample_ID: 522225
 Wire out: 
@@ -398,13 +398,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Using deployed sounding
 Time|Position: 2025-10-10 | 085807.0019 | 44 44.68583 N | 57 28.46885 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 11/Oct/2025 09:44:54
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -416,7 +416,7 @@ Encoding: plain
 
 $@MID@$: 438
 Date: Fri, 10 Oct 2025 09:09:49 +0000
-Reply to: 439, 440
+Reply to: 440
 Event: 144
 Station: LCM_02
 Instrument: RingNet
@@ -460,52 +460,6 @@ Attachment:
 Encoding: plain
 ========================================
 
-$@MID@$: 439
-Date: Fri, 10 Oct 2025 09:11:46 +0000
-In reply to: 438
-Event: 144
-Station: LCM_02
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 17495
-Flowmeter End: 
-Action: Deployed
-Sounding: 53
-Sample ID: 522226
-End_Sample_ID: 
-Wire out: 47.6
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Catherine Johnson
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: weight on bottom
-Time|Position: 2025-10-10 | 091146.0001 | 44 44.68450 N | 57 28.47725 W
-Cruise: JC28302
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS James Cook
-Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
 $@MID@$: 440
 Date: Fri, 10 Oct 2025 09:11:48 +0000
 Reply to: 441
@@ -518,7 +472,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 17495
 Flowmeter End: 
-Action: Deployed
+Action: Bottom
 Sounding: 53
 Sample ID: 522226
 End_Sample_ID: 
@@ -543,7 +497,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 11/Oct/2025 09:43:58
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -564,7 +518,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 17495
 Flowmeter End: 17645
-Action: Deployed
+Action: Recovered
 Sounding: NA
 Sample ID: 522226
 End_Sample_ID: 
@@ -589,7 +543,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 10/Oct/2025 09:15:06
+Revisions: 11/Oct/2025 09:44:09
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1353,7 +1307,7 @@ Flowmeter S/N:
 Flowmeter Start: 19234
 Flowmeter End: 
 Action: Bottom
-Sounding: NA
+Sounding: 433
 Sample ID: 522267
 End_Sample_ID: 
 Wire out: 415
@@ -1371,13 +1325,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: ctd altimeter 423
+Comment: ctd altimeter 423. Sounder was off using sounding from surface.
 Time|Position: 2025-10-10 | 154345.0023 | 44 48.46780 N | 57 01.67215 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 11/Oct/2025 09:42:47
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
