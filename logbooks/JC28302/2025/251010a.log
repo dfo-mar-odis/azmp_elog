@@ -519,7 +519,7 @@ Flowmeter S/N:
 Flowmeter Start: 17495
 Flowmeter End: 17645
 Action: Recovered
-Sounding: NA
+Sounding: 53
 Sample ID: 522226
 End_Sample_ID: 
 Wire out: 47.6
@@ -543,7 +543,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 11/Oct/2025 09:44:09
+Revisions: 11/Oct/2025 09:47:45
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
