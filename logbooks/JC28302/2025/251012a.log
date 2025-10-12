@@ -12,7 +12,7 @@ Flowmeter End:
 Action: Recovered
 Sounding: 3665.45
 Sample ID: 522342
-End_Sample_ID: 522565
+End_Sample_ID: 522365
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -34,7 +34,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 12/Oct/2025 14:02:58
+Revisions: 12/Oct/2025 14:09:02
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

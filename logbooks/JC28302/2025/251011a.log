@@ -752,7 +752,7 @@ Flowmeter End:
 Action: Deployed
 Sounding: 3707.05
 Sample ID: 522342
-End_Sample_ID: 522565
+End_Sample_ID: 522365
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -774,7 +774,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 12/Oct/2025 14:08:45
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -799,7 +799,7 @@ Flowmeter End:
 Action: Bottom
 Sounding: 3679.27
 Sample ID: 522342
-End_Sample_ID: 522565
+End_Sample_ID: 522365
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -821,7 +821,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 11/Oct/2025 23:44:02
+Revisions: 12/Oct/2025 14:08:54
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
