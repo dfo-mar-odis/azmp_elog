@@ -28,59 +28,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Bottle 24 did not seal 
 Time|Position: 2025-10-12 | 002053.0027 | 43 28.39456 N | 57 31.56345 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 12/Oct/2025 01:20:34
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 497
-Date: Sun, 12 Oct 2025 00:20:58 +0000
-In reply to: 495
-Event: 163
-Station: LL_09
-Instrument: CTD
-Attached: 
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 
-Flowmeter End: 
-Action: Recovered
-Sounding: 3665.45
-Sample ID: 522342
-End_Sample_ID: 522565
-Wire out: 
-Wire Angle: 
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Katie Warman
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: Bottle 24 did not seal
-Time|Position: 2025-10-12 | 002058.0028 | 43 28.39447 N | 57 31.56341 W
-Cruise: JC28302
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: RRS James Cook
-Revisions: 12/Oct/2025 01:26:48
+Revisions: 12/Oct/2025 14:02:58
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -427,7 +381,7 @@ Flowmeter S/N:
 Flowmeter Start: 28234
 Flowmeter End: 
 Action: Bottom
-Sounding: NA
+Sounding: 2874.12
 Sample ID: 522385
 End_Sample_ID: 
 Wire out: 1000
@@ -451,7 +405,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 12/Oct/2025 14:03:51
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -473,7 +427,7 @@ Flowmeter S/N:
 Flowmeter Start: 28234
 Flowmeter End: 31079
 Action: Recovered
-Sounding: NA
+Sounding: 2874.12
 Sample ID: 522385
 End_Sample_ID: 
 Wire out: 1000
@@ -497,7 +451,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 12/Oct/2025 09:38:01
+Revisions: 12/Oct/2025 14:04:07
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
