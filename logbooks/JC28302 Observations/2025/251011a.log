@@ -54,3 +54,74 @@ Attachment:
 Encoding: HTML
 ========================================
 
+$@MID@$: 15
+Date: Sat, 11 Oct 2025 20:35:48 +0000
+Event: NA
+Station: 
+Item: VMADCP
+Type: Note
+Comment: stopped and restarted 75 due temperature reading 0C	2025-09-29 22:13:13, 44.068011, -66.89845
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-11 | 203548.0045 | 43 12.82000 N | 57 35.33257 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 16
+Date: Sat, 11 Oct 2025 20:38:11 +0000
+Event: NA
+Station: 
+Item: VMADCP
+Type: Note
+Comment: ADCPs Stopped pinging due to power failure to GPS 2025-09-30 03:47:30 
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-11 | 203811.0045 | 43 13.24306 N | 57 35.29053 W
+Attachment: 
+Encoding: HTML
+========================================
+stopped 75 & 150:  2025-09-30 03:47:30
+restarted 75 & 150: 2025-09-30 04:16:55
+$@MID@$: 17
+Date: Sat, 11 Oct 2025 23:51:54 +0000
+Event: NA
+Station: 
+Item: VMADCP
+Type: Note
+Comment: Starboard dropkeel lowered 75kHz beam blocked
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-11 | 235154.0012 | 43 28.39397 N | 57 31.56296 W
+Attachment: 
+Encoding: HTML
+========================================
+Starboard dropkeel lowered 75kHz beam blocked
+several occurrences also logged in the ships event logger:
+
+2025-10-11 20:28:13	16	Other	Starboard DK raised flush	43.205783	-57.580845	
+2025-10-11 15:58:25	15	Other	Starboard DK lowered 75kHz ADCP bwam blocked	43.21435	-57.588842
+
+2025-10-09 18:02:13	10	Other	Starbooard dropkeel raised flush 75kHz ADCP no longer impeded	43.78859	-58.899602	
+2025-10-09 12:50:45	9	Other	Starboard dropkeel lowered 75kHz beam blocked	43.860675	-58.905086
+2025-10-08 15:23:02	8	Other	Starboard DK raised flush 75kHz ADCP no longer impeded	43.465781	-59.961685
+2025-10-08 13:46:44	7	Other	Starboard DK lowered 2476mm 75kHz ADCP will have beam blocked	43.460145	-59.957441
+$@MID@$: 18
+Date: Sat, 11 Oct 2025 23:53:38 +0000
+Event: NA
+Station: 
+Item: VMADCP
+Type: Note
+Comment: start and stop ADCPs entering and leaving French waters
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-11 | 235338.0043 | 43 28.39633 N | 57 31.56114 W
+Attachment: 
+Encoding: HTML
+========================================
+from ships event logger:
+
+2025-10-11 06:52:52	14	DataStr	Started on leaving French waters	44.529192	-56.404033			
+2025-10-11 04:47:30	13	DataStp	Stopped on entering French waters	44.869379	-56.147132			
+2025-10-11 00:39:14	12	DataStr	Started on leaving French waters	44.974397	-56.153071					
+2025-10-10 23:41:13	11	DataStp	Stopped for french waters	        44.928049	-56.400	
