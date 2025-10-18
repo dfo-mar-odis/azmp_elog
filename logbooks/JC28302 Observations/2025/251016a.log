@@ -1,0 +1,84 @@
+$@MID@$: 21
+Date: Thu, 16 Oct 2025 14:09:38 +0000
+Event: NA
+Station: 
+Item: Flow Through System
+Type: Note
+Comment: Flow started
+Author: Adam Hartling
+Revisions: 
+Time|Position: 2025-10-16 | 140938.0023 | 44 29.59901 N | 63 30.31134 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 22
+Date: Thu, 16 Oct 2025 14:13:41 +0000
+Reply to: 23
+Event: NA
+Station: 
+Item: IFCB
+Type: Note
+Comment: IFCB  has a leak, water is off, being fixed now
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-16 | 141341.0046 | 44 28.93472 N | 63 30.05868 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 23
+Date: Thu, 16 Oct 2025 14:21:23 +0000
+In reply to: 22
+Event: NA
+Station: 
+Item: IFCB
+Type: Note
+Comment: Leak is fixed water on
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-16 | 142123.0027 | 44 27.66748 N | 63 29.55257 W
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 24
+Date: Thu, 16 Oct 2025 18:06:40 +0000
+Reply to: 25
+Event: NA
+Station: 
+Item: VMADCP
+Type: Note
+Comment: Stopped, Halifax Harbour, 2025-10-15 00:58:05,  44.681025,-63.613559
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-16 | 180640.0006 | 44 16.71417 N | 63 16.55940 W
+Attachment: 
+Encoding: HTML
+========================================
+Stopped for entering Halifax Harbour:  2025-10-15 00:58:05,  44.681025,-63.613559
+$@MID@$: 25
+Date: Thu, 16 Oct 2025 18:07:52 +0000
+In reply to: 24
+Event: NA
+Station: 
+Item: VMADCP
+Type: Note
+Comment: started on departure from port 2025-10-16 12:41:12  44.68064	-63.613668
+Author: Diana Cardoso
+Revisions: 
+Time|Position: 2025-10-16 | 180752.0001 | 44 16.77742 N | 63 16.32997 W
+Attachment: 
+Encoding: HTML
+========================================
+<p>
+<table width="98%" align="center" cellspacing="1" style="border:1px solid #486090;">
+<tbody>
+<tr>
+<td cellpadding="3px" style="background-color:#486090; font-weidht:bold; color:white;">Quote:</td></tr>
+<tr>
+<td cellpadding="10px" style="background-color:#FFFFB0;">Stopped for entering Halifax Harbour:  2025-10-15 00:58:05,  44.681025,-63.613559</td>
+</tr>
+</tbody>
+</table>
+</p><p> </p>
