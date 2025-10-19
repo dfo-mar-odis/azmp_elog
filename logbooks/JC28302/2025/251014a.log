@@ -260,13 +260,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: Stopped strobing after 3rd profile. Recovered and shut down. Redeployed on Event 191.
 Time|Position: 2025-10-14 | 030709.0041 | 45 02.99638 N | 60 59.09083 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 19/Oct/2025 15:03:29
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
