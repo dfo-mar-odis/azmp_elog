@@ -796,7 +796,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 42777
 Flowmeter End: 43669
-Action: Bottom
+Action: Recovered
 Sounding: 374.64
 Sample ID: 522797
 End_Sample_ID: 
@@ -821,7 +821,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 20/Oct/2025 18:12:55
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
