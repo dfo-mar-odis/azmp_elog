@@ -1400,7 +1400,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: NA
+Sounding: 262.71
 Sample ID: 522712
 End_Sample_ID: 522731
 Wire out: 
@@ -1424,7 +1424,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 19/Oct/2025 23:31:51
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1466,12 +1466,12 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2025-10-19 | 213729.0008 | 47 35.05675 N | 59 20.49373 W
+Time|Position: 2025-10-19 | 212152.0008 | 47 35.05675 N | 59 20.49373 W
 Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 19/Oct/2025 23:55:21
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
