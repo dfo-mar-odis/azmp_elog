@@ -974,7 +974,7 @@ $@MID@$: 703
 Date: Mon, 20 Oct 2025 15:41:17 +0000
 Reply to: 704
 Event: 232
-Station: CSL_04
+Station: STAB_04
 Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
@@ -1006,7 +1006,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 20/Oct/2025 18:07:00
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1021,7 +1021,7 @@ Date: Mon, 20 Oct 2025 15:46:44 +0000
 Reply to: 705
 In reply to: 703
 Event: 232
-Station: CSL_04
+Station: STAB_04
 Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
@@ -1053,7 +1053,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 20/Oct/2025 18:07:49
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1067,7 +1067,7 @@ $@MID@$: 705
 Date: Mon, 20 Oct 2025 15:52:26 +0000
 In reply to: 704
 Event: 232
-Station: CSL_04
+Station: STAB_04
 Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
@@ -1099,7 +1099,7 @@ Cruise: JC28302
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: RRS James Cook
-Revisions: 
+Revisions: 20/Oct/2025 18:08:03
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
