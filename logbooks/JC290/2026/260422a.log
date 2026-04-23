@@ -378,7 +378,7 @@ Instrument: RingNet
 Attached: 76um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
+Flowmeter Start: 03194
 Flowmeter End: 03195
 Action: Recovered
 Sounding: 146
@@ -399,13 +399,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: flowmeter problematic
 Time|Position: 2026-04-22 | 161927.0027 | 44 15.91457 N | 63 19.12409 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 22/Apr/2026 18:31:46
+Revisions: 22/Apr/2026 21:32:21
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
