@@ -1,0 +1,972 @@
+$@MID@$: 52
+Date: Fri, 24 Apr 2026 00:22:54 +0000
+In reply to: 51
+Event: 018
+Station: BBL_07
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 1885.98
+Sample ID: 523135
+End_Sample_ID: 523158
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 002254.0037 | 41 52.00217 N | 65 20.98817 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 53
+Date: Fri, 24 Apr 2026 00:36:21 +0000
+Reply to: 54
+Event: 019
+Station: BBL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 1885.35
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 003621.0041 | 41 52.00168 N | 65 20.98876 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 54
+Date: Fri, 24 Apr 2026 01:05:44 +0000
+Reply to: 55
+In reply to: 53
+Event: 019
+Station: BBL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1885.05
+Sample ID: 
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 010544.0029 | 41 52.00162 N | 65 20.98768 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 55
+Date: Fri, 24 Apr 2026 01:29:25 +0000
+In reply to: 54
+Event: 019
+Station: BBL_07
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57160
+Flowmeter End: 59684
+Action: Recovered
+Sounding: 1884.88
+Sample ID: 523159
+End_Sample_ID: 
+Wire out: 1000
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 012925.0020 | 41 51.98041 N | 65 20.90928 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 24/Apr/2026 01:55:39
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 56
+Date: Fri, 24 Apr 2026 05:19:07 +0000
+Reply to: 57
+Event: 020
+Station: NEC_10
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 96.14
+Sample ID: 523160
+End_Sample_ID: 523177
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 051907.0007 | 41 59.40904 N | 66 08.49955 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 57
+Date: Fri, 24 Apr 2026 05:30:06 +0000
+Reply to: 58
+In reply to: 56
+Event: 020
+Station: NEC_10
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 94.49
+Sample ID: 523160
+End_Sample_ID: 523177
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 053006.0015 | 41 59.41590 N | 66 08.53427 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 58
+Date: Fri, 24 Apr 2026 05:57:59 +0000
+In reply to: 57
+Event: 020
+Station: NEC_10
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: NA
+Sample ID: 523160
+End_Sample_ID: 523177
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 055759.0000 | 41 59.45718 N | 66 08.70309 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 59
+Date: Fri, 24 Apr 2026 06:11:52 +0000
+Reply to: 60
+Event: 021
+Station: NEC_10
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 59684
+Flowmeter End: 
+Action: Deployed
+Sounding: 94.64
+Sample ID: 523178
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 061152.0041 | 41 59.45170 N | 66 08.68400 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 60
+Date: Fri, 24 Apr 2026 06:19:32 +0000
+Reply to: 61
+In reply to: 59
+Event: 021
+Station: NEC_10
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 59684
+Flowmeter End: 
+Action: Bottom
+Sounding: 94.08
+Sample ID: 523178
+End_Sample_ID: 
+Wire out: 85
+Wire Angle: 5
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 061932.0037 | 41 59.52435 N | 66 08.76007 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 61
+Date: Fri, 24 Apr 2026 06:25:35 +0000
+In reply to: 60
+Event: 021
+Station: NEC_10
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 59684
+Flowmeter End: 59972
+Action: Recovered
+Sounding: 94.10
+Sample ID: 523178
+End_Sample_ID: 
+Wire out: 85
+Wire Angle: 5
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Rebecca Milne
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 062535.0032 | 41 59.56398 N | 66 08.80587 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 24/Apr/2026 06:26:05
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 62
+Date: Fri, 24 Apr 2026 07:12:32 +0000
+Reply to: 63
+Event: 022
+Station: NEC_09
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 97.79
+Sample ID: 523179
+End_Sample_ID: 523188
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 071232.0008 | 42 03.71724 N | 66 04.96932 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 63
+Date: Fri, 24 Apr 2026 07:25:00 +0000
+Reply to: 64
+In reply to: 62
+Event: 022
+Station: NEC_09
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 98.51
+Sample ID: 523179
+End_Sample_ID: 523188
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 072500.0041 | 42 03.70593 N | 66 04.99413 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 64
+Date: Fri, 24 Apr 2026 07:45:55 +0000
+In reply to: 63
+Event: 022
+Station: NEC_09
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 98.90
+Sample ID: 523179
+End_Sample_ID: 523188
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 074555.0015 | 42 03.70410 N | 66 04.99313 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 65
+Date: Fri, 24 Apr 2026 08:24:49 +0000
+Reply to: 66
+Event: 023
+Station: NEC_08
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 209.45
+Sample ID: 523189
+End_Sample_ID: 523202
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 082449.0028 | 42 07.09858 N | 66 02.24192 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 66
+Date: Fri, 24 Apr 2026 08:37:09 +0000
+In reply to: 65
+Event: 023
+Station: NEC_08
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Aborted
+Sounding: 209.24
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: SUNA values consistent at -25
+Time|Position: 2026-04-24 | 083709.0032 | 42 07.09751 N | 66 02.24429 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 67
+Date: Fri, 24 Apr 2026 08:40:06 +0000
+Reply to: 68
+Event: 024
+Station: NEC_08
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 208.93
+Sample ID: 523189
+End_Sample_ID: 523202
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: SUNA not working. Leaving it on for second cast.
+Time|Position: 2026-04-24 | 084006.0001 | 42 07.09765 N | 66 02.24452 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 68
+Date: Fri, 24 Apr 2026 09:01:52 +0000
+Reply to: 69
+In reply to: 67
+Event: 024
+Station: NEC_08
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 209.31
+Sample ID: 523189
+End_Sample_ID: 523202
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: submitted late at 125m
+Time|Position: 2026-04-24 | 090152.0016 | 42 07.09728 N | 66 02.24551 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 69
+Date: Fri, 24 Apr 2026 09:26:06 +0000
+In reply to: 68
+Event: 024
+Station: NEC_08
+Instrument: CTD
+Attached: pH
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 209.13
+Sample ID: 523189
+End_Sample_ID: 523202
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lisa Baxter
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Bottle 3 dripping at bottom
+Time|Position: 2026-04-24 | 092606.0033 | 42 07.09801 N | 66 02.24397 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 24/Apr/2026 09:54:25
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 70
+Date: Fri, 24 Apr 2026 09:36:51 +0000
+Reply to: 71
+Event: 025
+Station: NEC_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 59973
+Flowmeter End: 
+Action: Deployed
+Sounding: 208.68
+Sample ID: 523203
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 093650.0031 | 42 07.09733 N | 66 02.24577 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 71
+Date: Fri, 24 Apr 2026 09:44:04 +0000
+Reply to: 72
+In reply to: 70
+Event: 025
+Station: NEC_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 59973
+Flowmeter End: 
+Action: Bottom
+Sounding: 208.89
+Sample ID: 523203
+End_Sample_ID: 
+Wire out: 202
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 094404.0033 | 42 07.10365 N | 66 02.19646 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 72
+Date: Fri, 24 Apr 2026 09:51:05 +0000
+In reply to: 71
+Event: 025
+Station: NEC_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 59973
+Flowmeter End: 60502
+Action: Recovered
+Sounding: 209.50
+Sample ID: 523203
+End_Sample_ID: 
+Wire out: 202
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lindsay Beazley
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-04-24 | 095105.0014 | 42 07.11929 N | 66 02.07499 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+

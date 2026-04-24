@@ -1677,7 +1677,7 @@ Number_of_Bottles:
 Flowmeter S/N: 
 Flowmeter Start: 54778
 Flowmeter End: 
-Action: Deployed
+Action: Bottom
 Sounding: 1090
 Sample ID: 523134
 End_Sample_ID: 
@@ -1702,7 +1702,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 23/Apr/2026 22:41:13
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -1759,7 +1759,8 @@ Encoding: plain
 ========================================
 
 $@MID@$: 50
-Date: Thu, 23 Apr 2026 21:43:40 +0000
+Date: Thu, 23 Apr 2026 22:28:57 +0000
+Reply to: 51
 Event: 018
 Station: BBL_07
 Instrument: CTD
@@ -1769,7 +1770,54 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: NA
+Sounding: 1886.34
+Sample ID: 523135
+End_Sample_ID: 523158
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Meng Ji
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: No SUNA or pH due to depth
+Time|Position: 2026-04-23 | 222857.0029 | 41 52.00317 N | 65 20.98805 W
+Cruise: JC290
+PI: Lindsay Beazley
+Protocol: AZMP
+Platform: James Cook
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 51
+Date: Thu, 23 Apr 2026 23:15:12 +0000
+Reply to: 52
+In reply to: 50
+Event: 018
+Station: BBL_07
+Instrument: CTD
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1886.22
 Sample ID: 523135
 End_Sample_ID: 523158
 Wire out: 
@@ -1788,7 +1836,7 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2026-04-23 | 214340.0044 | 41 56.46496 N | 65 26.38744 W
+Time|Position: 2026-04-23 | 231512.0004 | 41 52.00246 N | 65 20.98763 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
@@ -1801,6 +1849,5 @@ Number of Temperature Recorders:
 Number of Amars: 
 Attachment: 
 Encoding: plain
-Draft: user
 ========================================
 
