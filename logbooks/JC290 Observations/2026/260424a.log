@@ -1,0 +1,14 @@
+$@MID@$: 2
+Date: Fri, 24 Apr 2026 11:26:36 +0000
+Event: 026
+Station: NEC_06
+Item: CTD - Config
+Type: Note
+Comment: 
+Author: Lindsay Beazley
+Revisions: 
+Time|Position: 2026-04-24 | 112636.0031 | 42 11.17023 N | 65 56.52572 W
+Attachment: 
+Encoding: HTML
+========================================
+Chlorophyll Seapoint sensor was changed after Event 025 and before Event 026 (NEC_06) due to noise in the data. The new sensor is SCF 3867, and the .xmlcon was updated to JC290_1182_NMEA_B.xmlcon.
