@@ -2091,7 +2091,7 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 523302
+Flowmeter Start: 61939
 Flowmeter End: 
 Action: Deployed
 Sounding: 207.48
@@ -2118,7 +2118,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 25/Apr/2026 12:41:50
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2138,7 +2138,7 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 523302
+Flowmeter Start: 61939
 Flowmeter End: 
 Action: Bottom
 Sounding: 206.11
@@ -2165,7 +2165,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 25/Apr/2026 12:42:09
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2184,7 +2184,7 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 52302
+Flowmeter Start: 61939
 Flowmeter End: 62566
 Action: Recovered
 Sounding: 205.65
@@ -2211,7 +2211,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 25/Apr/2026 12:40:56
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -2463,7 +2463,7 @@ Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 62566
-Flowmeter End: 
+Flowmeter End: 62787
 Action: Recovered
 Sounding: 102.53
 Sample ID: 523321
@@ -2489,7 +2489,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 25/Apr/2026 12:34:36
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
