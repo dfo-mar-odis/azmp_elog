@@ -45,7 +45,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 192
-Date: Tue, 28 Apr 2026 01:18:07 +0000
+Date: Tue, 28 Apr 2026 03:21:53 +0000
 Reply to: 193
 Event: 066
 Station: GUL_03
@@ -56,9 +56,9 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: 1761
-Sample ID: 523562
-End_Sample_ID: 523580
+Sounding: 2043.71
+Sample ID: 5235
+End_Sample_ID: 5235
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -74,8 +74,8 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
-Time|Position: 2026-04-28 | 011807.0028 | 43 53.30888 N | 58 57.25675 W
+Comment: No SUNA or pH due to depth
+Time|Position: 2026-04-28 | 032153.0028 | 43 47.40035 N | 58 53.99991 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
@@ -91,7 +91,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 193
-Date: Tue, 28 Apr 2026 02:12:57 +0000
+Date: Tue, 28 Apr 2026 03:17:03 +0000
 Reply to: 192
 In reply to: 194
 Event: 066
@@ -103,9 +103,9 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Bottom
-Sounding: 1761
-Sample ID: 523562
-End_Sample_ID: 523580
+Sounding: 2043.17
+Sample ID: 5235
+End_Sample_ID: 5235
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -122,7 +122,7 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2026-04-28 | 021257.0015 | 43 53.31000 N | 58 57.22223 W
+Time|Position: 2026-04-28 | 031703.0015 | 43 47.39998 N | 58 54.00026 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
@@ -138,7 +138,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 194
-Date: Tue, 28 Apr 2026 03:14:08 +0000
+Date: Tue, 28 Apr 2026 03:25:40 +0000
 In reply to: 193
 Event: 066
 Station: GUL_03
@@ -149,9 +149,9 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Recovered
-Sounding: 1761
-Sample ID: 523562
-End_Sample_ID: 523580
+Sounding: 2044.06
+Sample ID: 5235
+End_Sample_ID: 5235
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -168,7 +168,7 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2026-04-28 | 031408.0012 | 43 53.30975 N | 58 57.22302 W
+Time|Position: 2026-04-28 | 032540.0012 | 43 47.40018 N | 58 54.00059 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
