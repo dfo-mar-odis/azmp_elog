@@ -45,7 +45,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 192
-Date: Tue, 28 Apr 2026 03:21:53 +0000
+Date: Tue, 28 Apr 2026 01:18:07 +0000
 Reply to: 193
 Event: 066
 Station: GUL_03
@@ -56,7 +56,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: 2043.71
+Sounding: 1761
 Sample ID: 5235
 End_Sample_ID: 5235
 Wire out: 
@@ -74,8 +74,8 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: No SUNA or pH due to depth
-Time|Position: 2026-04-28 | 032153.0028 | 43 47.40035 N | 58 53.99991 W
+Comment: 
+Time|Position: 2026-04-28 | 011807.0028 | 43 53.30888 N | 58 57.25675 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
@@ -91,7 +91,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 193
-Date: Tue, 28 Apr 2026 03:17:03 +0000
+Date: Tue, 28 Apr 2026 02:12:57 +0000
 Reply to: 192
 In reply to: 194
 Event: 066
@@ -103,7 +103,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Bottom
-Sounding: 2043.17
+Sounding: 1761
 Sample ID: 5235
 End_Sample_ID: 5235
 Wire out: 
@@ -122,7 +122,7 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2026-04-28 | 031703.0015 | 43 47.39998 N | 58 54.00026 W
+Time|Position: 2026-04-28 | 021257.0015 | 43 53.31000 N | 58 57.22223 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
@@ -138,7 +138,7 @@ Encoding: plain
 ========================================
 
 $@MID@$: 194
-Date: Tue, 28 Apr 2026 03:25:40 +0000
+Date: Tue, 28 Apr 2026 03:14:08 +0000
 In reply to: 193
 Event: 066
 Station: GUL_03
@@ -149,7 +149,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Recovered
-Sounding: 2044.06
+Sounding: 1761
 Sample ID: 5235
 End_Sample_ID: 5235
 Wire out: 
@@ -168,7 +168,7 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2026-04-28 | 032540.0012 | 43 47.40018 N | 58 54.00059 W
+Time|Position: 2026-04-28 | 031408.0012 | 43 53.30975 N | 58 57.22302 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
@@ -1712,7 +1712,6 @@ Encoding: plain
 
 $@MID@$: 228
 Date: Tue, 28 Apr 2026 22:09:11 +0000
-Reply to: 229
 In reply to: 227
 Event: 078
 Station: LCM_04
@@ -1748,52 +1747,6 @@ PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
 Revisions: 
-Mooring Number: 
-Number of RCMs: 
-Number of MicroCATs: 
-Number of Temperature Recorders: 
-Number of Amars: 
-Attachment: 
-Encoding: plain
-========================================
-
-$@MID@$: 229
-Date: Tue, 28 Apr 2026 22:18:36 +0000
-In reply to: 228
-Event: 078
-Station: LCM_04
-Instrument: RingNet
-Attached: 202um | Flowmeter
-Number_of_Bottles: 
-Flowmeter S/N: 
-Flowmeter Start: 84327
-Flowmeter End: 85172
-Action: Recovered
-Sounding: 407.50
-Sample ID: 523654
-End_Sample_ID: 
-Wire out: 400
-Wire Angle: 0
-Net Clogging: 
-Wind Direction: 
-Wind Speed (nm): 
-Sky (condition): 
-Swell Direction: 
-Swell Height (M): 
-Sea (Condition): 
-Depth: 
-Author: Rebecca Milne
-IMEI_No: 
-WMO_No: 
-S/N: 
-Name: 
-Comment: 
-Time|Position: 2026-04-28 | 221836.0019 | 44 46.79710 N | 57 14.99298 W
-Cruise: JC290
-PI: Lindsay Beazley
-Protocol: AZMP
-Platform: James Cook
-Revisions: 28/Apr/2026 22:18:52
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
