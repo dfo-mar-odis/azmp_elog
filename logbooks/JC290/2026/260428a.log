@@ -474,7 +474,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Deployed
 Sounding: 2044.32
-Sample ID: 
+Sample ID: 523605
 End_Sample_ID: 
 Wire out: 
 Wire Angle: 
@@ -497,7 +497,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 28/Apr/2026 09:43:34
+Revisions: 29/Apr/2026 11:04:21
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -521,7 +521,7 @@ Flowmeter Start: 81744
 Flowmeter End: 84078
 Action: Bottom
 Sounding: 2042.74
-Sample ID: 
+Sample ID: 523605
 End_Sample_ID: 
 Wire out: 1000
 Wire Angle: 0
@@ -544,7 +544,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 28/Apr/2026 09:41:21
+Revisions: 29/Apr/2026 11:04:08
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -567,7 +567,7 @@ Flowmeter Start: 81744
 Flowmeter End: 84078
 Action: Recovered
 Sounding: 2042.74 
-Sample ID: 
+Sample ID: 523605
 End_Sample_ID: 
 Wire out: 1000
 Wire Angle: 0
@@ -590,7 +590,7 @@ Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 28/Apr/2026 09:43:11
+Revisions: 29/Apr/2026 11:04:42
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -599,6 +599,7 @@ Number of Amars:
 Attachment: 
 Encoding: plain
 ========================================
+
 $@MID@$: 204
 Date: Tue, 28 Apr 2026 16:24:18 +0000
 Reply to: 205
