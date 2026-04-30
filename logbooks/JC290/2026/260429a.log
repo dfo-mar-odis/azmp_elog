@@ -752,8 +752,8 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Deployed
 Sounding: 397.40
-Sample ID: 523703
-End_Sample_ID: 523714
+Sample ID: 523702
+End_Sample_ID: 523713
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -769,13 +769,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: changed sample ID from 523703, 523714
 Time|Position: 2026-04-29 | 073711.0041 | 44 55.19976 N | 56 26.38896 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 30/Apr/2026 15:56:28
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -799,8 +799,8 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Bottom
 Sounding: 397.19
-Sample ID: 523703
-End_Sample_ID: 523714
+Sample ID: 523702
+End_Sample_ID: 523713
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -816,13 +816,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: changed sample ID from 523703, 523714 
 Time|Position: 2026-04-29 | 075330.0021 | 44 55.20049 N | 56 26.38903 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 30/Apr/2026 15:56:57
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -845,8 +845,8 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Recovered
 Sounding: 397.16
-Sample ID: 523703
-End_Sample_ID: 523714
+Sample ID: 523702
+End_Sample_ID: 523713
 Wire out: 
 Wire Angle: 
 Net Clogging: 
@@ -862,13 +862,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: changed sample ID from 523703, 523714 
 Time|Position: 2026-04-29 | 082052.0016 | 44 55.20042 N | 56 26.38898 W
 Cruise: JC290
 PI: Lindsay Beazley
 Protocol: AZMP
 Platform: James Cook
-Revisions: 
+Revisions: 30/Apr/2026 15:57:11
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
