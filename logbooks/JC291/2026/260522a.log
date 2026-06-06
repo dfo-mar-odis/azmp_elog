@@ -1,0 +1,139 @@
+$@MID@$: 1
+Date: Fri, 22 May 2026 15:26:06 +0000
+Reply to: 2
+Event: 1
+Station: GSL
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 208.0
+Sample ID: 524095
+End_Sample_ID: 524118
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 152233.00 | 48 46.0804 N | 59 37.32354 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 22/May/2026 17:22:18
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 2
+Date: Fri, 22 May 2026 15:39:42 +0000
+Reply to: 3
+In reply to: 1
+Event: 1
+Station: GSL
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 208.0
+Sample ID: 524095
+End_Sample_ID: 524118
+Wire out: 192
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 153942.00 | 48 46.07958 N | 59 37.32408 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 22/May/2026 17:24:02
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 3
+Date: Fri, 22 May 2026 16:09:54 +0000
+In reply to: 2
+Event: 1
+Station: GSL
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 208.00
+Sample ID: 524095
+End_Sample_ID: 524118
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 161051.00 | 48 46.07904 N | 59 37.32540 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 22/May/2026 17:25:51
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
