@@ -32,22 +32,12 @@ def get_stream(udp_ip, udp_port, return_queue):
     while True:
         data, addr = sock.recvfrom(1024)
         string = data.decode('utf-8')
-        #print(string)
         if GGA_LABEL in string:
-            #print(string)
-            #print(find_characters(string, "GGA"))
-            pp=find_characters(string, "GGA")
-            stringgga = string[pp:-1]
-            #print(stringgga)
-            stringgga = stringgga.split("*")  # rip off the checksum value
-            #print(stringgga)
-            GGA = stringgga[0].split(',')
-            #print(GGA) 	
+            string = string.split("*")  # rip off the checksum value
+            GGA = string[0].split(',') 	
         if ZDA_LABEL in string:
             string = string.split("*")  # rip off the checksum value
-            #print(string)
             ZDA = string[0].split(',')
-            #print(ZDA)	
         # if the timestap from each string matches to the second breakout
         if GGA and ZDA and GGA[1][0:5] == ZDA[1][0:5]:
             break
@@ -58,8 +48,8 @@ def get_stream(udp_ip, udp_port, return_queue):
     location_str = f'{lat[0:2]} {lat[2:]} {GGA[3]} | {int(lon[0:3])} {lon[3:]} {GGA[5]}'
     date_gps_str = f'{date_str} | {location_str}'
     queue.put(date_gps_str)
-    #print(location_str)
-    #print(date_gps_str)    
+    print(location_str)
+    print(date_gps_str)    
 
 parser = argparse.ArgumentParser(description="Read NMEA label from an IP/Port streaming data and prints "
                                              "column of interest",
