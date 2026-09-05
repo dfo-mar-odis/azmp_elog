@@ -1,0 +1,648 @@
+$@MID@$: 22
+Date: Sat, 05 Sep 2026 10:06:07 -0700
+Reply to: 23
+Event: 008
+Station: SMB_01
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 0084.00
+Sample ID: 526551
+End_Sample_ID: 526557
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 170538.99 | 44 31.033546 N | 63 59.243335 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 10:54:11
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 23
+Date: Sat, 05 Sep 2026 10:13:17 -0700
+Reply to: 24
+In reply to: 22
+Event: 008
+Station: SMB_01
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 0084.00
+Sample ID: 526551
+End_Sample_ID: 526557
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 171249.49 | 44 31.033736 N | 63 59.243558 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 10:54:25
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 24
+Date: Sat, 05 Sep 2026 10:13:45 -0700
+In reply to: 23
+Event: 008
+Station: SMB_01
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 0084.00
+Sample ID: 526551
+End_Sample_ID: 526557
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 171316.99 | 44 31.033770 N | 63 59.243793 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 10:54:38
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 25
+Date: Sat, 05 Sep 2026 10:43:45 -0700
+Reply to: 26
+Event: 009
+Station: SMB_01
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 72674
+Flowmeter End: 
+Action: Deployed
+Sounding: 0079.71
+Sample ID: 
+End_Sample_ID: 
+Wire out: 0074
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: No Sample Collected - Patrick
+Time|Position: 2026-09-05 | 174317.49 | 44 31.033538 N | 63 59.243544 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 14:02:30
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 26
+Date: Sat, 05 Sep 2026 10:50:17 -0700
+Reply to: 27
+In reply to: 25
+Event: 009
+Station: SMB_01
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 72674
+Flowmeter End: 
+Action: Bottom
+Sounding: 0079.58
+Sample ID: 
+End_Sample_ID: 
+Wire out: 0074
+Wire Angle: 10
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 174949.49 | 44 31.033250 N | 63 59.243174 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 14:03:03
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 27
+Date: Sat, 05 Sep 2026 10:53:23 -0700
+In reply to: 26
+Event: 009
+Station: SMB_01
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 72674
+Flowmeter End: 73004
+Action: Recovered
+Sounding: 0079.42
+Sample ID: 
+End_Sample_ID: 
+Wire out: 0074
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 175255.49 | 44 31.033505 N | 63 59.243255 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 14:03:38
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 28
+Date: Sat, 05 Sep 2026 11:03:31 -0700
+Reply to: 29
+Event: 010
+Station: SMB_01
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 0079.73
+Sample ID: 
+End_Sample_ID: 
+Wire out: 0070
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Trial. No sample collected
+Time|Position: 2026-09-05 | 180302.99 | 44 31.033358 N | 63 59.243229 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 11:03:53
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 29
+Date: Sat, 05 Sep 2026 11:06:37 -0700
+Reply to: 30
+In reply to: 28
+Event: 010
+Station: SMB_01
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 0080.02
+Sample ID: 
+End_Sample_ID: 
+Wire out: 0070
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 180608.99 | 44 31.033123 N | 63 59.243703 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 11:03:53
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 30
+Date: Sat, 05 Sep 2026 11:09:34 -0700
+In reply to: 29
+Event: 010
+Station: SMB_01
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 0079.78
+Sample ID: 
+End_Sample_ID: 
+Wire out: 0070
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 180905.99 | 44 31.033240 N | 63 59.244147 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 05/Sep/2026 11:03:53
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 31
+Date: Sat, 05 Sep 2026 14:20:48 -0700
+Reply to: 32
+Event: 011
+Station: SMB_02
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 0062.93
+Sample ID: 526558
+End_Sample_ID: 526564
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 212019.99 | 44 34.134619 N | 63 59.894803 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 32
+Date: Sat, 05 Sep 2026 14:28:01 -0700
+Reply to: 33
+In reply to: 31
+Event: 011
+Station: SMB_02
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 0063.32
+Sample ID: 526558
+End_Sample_ID: 526564
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 212733.49 | 44 34.134355 N | 63 59.894726 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 33
+Date: Sat, 05 Sep 2026 14:45:57 -0700
+In reply to: 32
+Event: 011
+Station: SMB_02
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 0061.31
+Sample ID: 526558
+End_Sample_ID: 526564
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 214528.99 | 44 34.134365 N | 63 59.894961 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 34
+Date: Sat, 05 Sep 2026 14:54:56 -0700
+Reply to: 35
+Event: 012
+Station: SMB_02
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 0060.45
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Trial. No sample collected.
+Time|Position: 2026-09-05 | 215428.49 | 44 34.134792 N | 63 59.895052 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 35
+Date: Sat, 05 Sep 2026 14:59:00 -0700
+In reply to: 34
+Event: 012
+Station: SMB_02
+Instrument: RingNet
+Attached: 202um
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 0062.12
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Ryan Doody
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-05 | 215832.49 | 44 34.134575 N | 63 59.895226 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+

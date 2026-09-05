@@ -121,13 +121,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: IML Net Cast
 Time|Position: 2026-09-04 | 184624.49 | 44 15.982918 N | 63 19.043791 W
 Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 02:36:40
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -150,7 +150,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Deployed
 Sounding: 0153.55
-Sample ID: 526515
+Sample ID: 
 End_Sample_ID: 
 Wire out: 143
 Wire Angle: 
@@ -167,13 +167,13 @@ IMEI_No:
 WMO_No: 
 S/N: 
 Name: 
-Comment: 
+Comment: NFLD Net Cast
 Time|Position: 2026-09-04 | 190834.49 | 44 15.974056 N | 63 19.052196 W
 Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 04/Sep/2026 13:26:53
+Revisions: 05/Sep/2026 02:38:38
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -197,7 +197,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Bottom
 Sounding: 0152.21
-Sample ID: 526515
+Sample ID: 
 End_Sample_ID: 
 Wire out: 143
 Wire Angle: 
@@ -220,7 +220,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 02:38:51
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -243,7 +243,7 @@ Flowmeter Start:
 Flowmeter End: 
 Action: Recovered
 Sounding: 0158.24
-Sample ID: 526515
+Sample ID: 
 End_Sample_ID: 
 Wire out: 143
 Wire Angle: 
@@ -266,7 +266,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 02:39:01
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -285,11 +285,11 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
+Flowmeter Start: 72234
 Flowmeter End: 
 Action: Deployed
 Sounding: 0150.71
-Sample ID: 
+Sample ID: 526515
 End_Sample_ID: 
 Wire out: 
 Wire Angle: 
@@ -312,7 +312,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 14:07:20
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -332,14 +332,14 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
+Flowmeter Start: 72234
 Flowmeter End: 
 Action: Bottom
 Sounding: 0156.55
-Sample ID: 
+Sample ID: 526515
 End_Sample_ID: 
-Wire out: 
-Wire Angle: 
+Wire out: 140
+Wire Angle: 10
 Net Clogging: 
 Wind Direction: 
 Wind Speed (nm): 
@@ -359,7 +359,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 14:08:17
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -378,14 +378,14 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
-Flowmeter End: 
+Flowmeter Start: 72234
+Flowmeter End: 72673
 Action: Recovered
 Sounding: 0149.51
-Sample ID: 
+Sample ID: 526515
 End_Sample_ID: 
-Wire out: 
-Wire Angle: 
+Wire out: 140
+Wire Angle: 10
 Net Clogging: 
 Wind Direction: 
 Wind Speed (nm): 
@@ -405,7 +405,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 14:09:24
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -421,10 +421,10 @@ Reply to: 11
 Event: 004
 Station: HL_02
 Instrument: RingNet
-Attached: 202um | Flowmeter
+Attached: 76um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
+Flowmeter Start: 10085
 Flowmeter End: 
 Action: Deployed
 Sounding: 0153.78
@@ -451,7 +451,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 14:10:08
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -471,14 +471,14 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
+Flowmeter Start: 10085
 Flowmeter End: 
 Action: Bottom
 Sounding: 0150.11
 Sample ID: 526516
 End_Sample_ID: 
-Wire out: 
-Wire Angle: 
+Wire out: 140
+Wire Angle: 0
 Net Clogging: 
 Wind Direction: 
 Wind Speed (nm): 
@@ -498,7 +498,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 14:13:26
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -517,14 +517,14 @@ Instrument: RingNet
 Attached: 202um | Flowmeter
 Number_of_Bottles: 
 Flowmeter S/N: 
-Flowmeter Start: 
-Flowmeter End: 
+Flowmeter Start: 10085
+Flowmeter End: 10349
 Action: Recovered
 Sounding: 0152.53
 Sample ID: 526516
 End_Sample_ID: 
-Wire out: 
-Wire Angle: 
+Wire out: 140
+Wire Angle: 0
 Net Clogging: 
 Wind Direction: 
 Wind Speed (nm): 
@@ -544,7 +544,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 
+Revisions: 05/Sep/2026 14:14:05
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
