@@ -415,3 +415,328 @@ Attachment:
 Encoding: plain
 ========================================
 
+$@MID@$: 51
+Date: Mon, 07 Sep 2026 08:20:59 -0700
+Reply to: 52
+Event: 018
+Station: M2332
+Instrument: Recover Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Attempt Comms
+Sounding: 171
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-07 | 152032.99 | 44 14.958911 N | 63 09.811277 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 52
+Date: Mon, 07 Sep 2026 08:28:40 -0700
+Reply to: 53
+In reply to: 51
+Event: 018
+Station: M2332
+Instrument: Recover Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Release
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-07 | 152813.49 | 44 14.958441 N | 63 09.810952 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 53
+Date: Mon, 07 Sep 2026 08:48:38 -0700
+In reply to: 52
+Event: 018
+Station: M2332
+Instrument: Recover Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: On Deck
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-07 | 154811.99 | 44 14.734713 N | 63 10.103989 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: 
+Number of RCMs: 0
+Number of MicroCATs: 1
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 54
+Date: Mon, 07 Sep 2026 09:31:16 -0700
+Reply to: 55
+Event: 019
+Station: HL_02
+Instrument: Deploy Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Start Deployment
+Sounding: 161
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-07 | 163049.49 | 44 14.996329 N | 63 10.042255 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: M2345
+Number of RCMs: 0
+Number of MicroCATs: 2
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 55
+Date: Mon, 07 Sep 2026 09:33:53 -0700
+Reply to: 56
+In reply to: 54
+Event: 019
+Station: HL_02
+Instrument: Deploy Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: In Water
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-07 | 163326.49 | 44 14.997657 N | 63 10.045557 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: M2345
+Number of RCMs: 0
+Number of MicroCATs: 2
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 56
+Date: Mon, 07 Sep 2026 09:35:11 -0700
+Reply to: 57
+In reply to: 55
+Event: 019
+Station: HL_02
+Instrument: Deploy Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Anchor Away
+Sounding: NA
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-09-07 | 163444.49 | 44 14.998297 N | 63 10.045531 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: M2345
+Number of RCMs: 0
+Number of MicroCATs: 2
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 57
+Date: Mon, 07 Sep 2026 09:44:26 -0700
+In reply to: 56
+Event: 019
+Station: HL_02
+Instrument: Deploy Mooring
+Attached: ADCP | MicroCAT
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: On Bottom
+Sounding: 164
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Patrick Upson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Sounding from Navigation sounder
+Time|Position: 2026-09-07 | 164359.99 | 44 14.726034 N | 63 09.968136 W
+Cruise: NNA2026003
+PI: Gina Doyle
+Protocol: AZMP
+Platform: CCGS Naalak Nappaaluk
+Revisions: 
+Mooring Number: M2345
+Number of RCMs: 0
+Number of MicroCATs: 2
+Number of Temperature Recorders: 0
+Number of Amars: 0
+Attachment: 
+Encoding: plain
+========================================
+
