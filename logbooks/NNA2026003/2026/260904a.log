@@ -4,7 +4,7 @@ Reply to: 2
 Event: 001
 Station: HL_02
 Instrument: RingNet
-Attached: 
+Attached: 202um | CTD
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -34,7 +34,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 04/Sep/2026 11:47:18
+Revisions: 06/Sep/2026 04:09:38
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -51,7 +51,7 @@ In reply to: 1
 Event: 001
 Station: HL_02
 Instrument: RingNet
-Attached: 
+Attached: 202um | CTD
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -81,7 +81,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 04/Sep/2026 11:47:08
+Revisions: 06/Sep/2026 04:09:47
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -97,7 +97,7 @@ In reply to: 2
 Event: 001
 Station: HL_02
 Instrument: RingNet
-Attached: 
+Attached: 202um | CTD
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
@@ -127,7 +127,7 @@ Cruise: NNA2026003
 PI: Gina Doyle
 Protocol: AZMP
 Platform: CCGS Naalak Nappaaluk
-Revisions: 05/Sep/2026 02:36:40
+Revisions: 06/Sep/2026 04:09:55
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
