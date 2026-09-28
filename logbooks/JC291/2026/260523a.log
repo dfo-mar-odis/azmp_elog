@@ -1,15 +1,16 @@
 $@MID@$: 4
 Date: Sat, 23 May 2026 09:07:04 +0000
+Reply to: 5
 Event: 002
 Station: GSL
-Instrument: MSC
+Instrument: Marine Snow Catcher
 Attached: 
 Number_of_Bottles: 
 Flowmeter S/N: 
 Flowmeter Start: 
 Flowmeter End: 
 Action: Deployed
-Sounding: NA
+Sounding: 208.0
 Sample ID: 
 End_Sample_ID: 
 Wire out: 
@@ -28,12 +29,197 @@ WMO_No:
 S/N: 
 Name: 
 Comment: 
-Time|Position: 2026-05-23 | 090704.0043 | 50 13.63547 N | 58 07.97613 W
+Time|Position: 2026-05-22 | 163553.0000 | 48 46.08276 N | 59 37.32246 W
 Cruise: JC291
 PI: Marc Ringuette
 Protocol: AZOMP
 Platform: RRS JAMES COOK
-Revisions: 
+Revisions: 06/Jun/2026 13:10:19
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 5
+Date: Sat, 23 May 2026 09:32:46 +0000
+Reply to: 6
+In reply to: 4
+Event: 002
+Station: GSL
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 208.0
+Sample ID: 
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 164058.0000 | 48 46.08114 N | 59 37.32294 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 06/Jun/2026 13:11:57
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 6
+Date: Sat, 23 May 2026 09:38:28 +0000
+In reply to: 5
+Event: 002
+Station: GSL
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 208.0
+Sample ID: 
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 164444.0000 | 48 46.08066 N | 59 37.32270 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 06/Jun/2026 13:13:35
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 7
+Date: Sat, 23 May 2026 09:53:10 +0000
+Reply to: 8
+Event: 003
+Station: GSL
+Instrument: IKMT
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 208.0
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 170308.0000 | 48 46.10226 N | 59 37.42506 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 06/Jun/2026 13:15:37
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 8
+Date: Sat, 23 May 2026 09:57:32 +0000
+In reply to: 7
+Event: 003
+Station: GSL
+Instrument: IKMT
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 208.0
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-22 | 171724.0000 | 48 46.16796 N | 59 37.65750 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 06/Jun/2026 13:16:25
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

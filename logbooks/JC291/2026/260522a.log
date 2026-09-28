@@ -1,7 +1,7 @@
 $@MID@$: 1
 Date: Fri, 22 May 2026 15:26:06 +0000
 Reply to: 2
-Event: 1
+Event: 001
 Station: GSL
 Instrument: CTD
 Attached: pH | SBE35
@@ -34,7 +34,7 @@ Cruise: JC291
 PI: Marc Ringuette
 Protocol: AZOMP
 Platform: RRS JAMES COOK
-Revisions: 22/May/2026 17:22:18
+Revisions: 23/May/2026 09:16:40
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -48,7 +48,7 @@ $@MID@$: 2
 Date: Fri, 22 May 2026 15:39:42 +0000
 Reply to: 3
 In reply to: 1
-Event: 1
+Event: 001
 Station: GSL
 Instrument: CTD
 Attached: pH | SBE35
@@ -81,7 +81,7 @@ Cruise: JC291
 PI: Marc Ringuette
 Protocol: AZOMP
 Platform: RRS JAMES COOK
-Revisions: 22/May/2026 17:24:02
+Revisions: 23/May/2026 09:16:47
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 
@@ -94,7 +94,7 @@ Encoding: plain
 $@MID@$: 3
 Date: Fri, 22 May 2026 16:09:54 +0000
 In reply to: 2
-Event: 1
+Event: 001
 Station: GSL
 Instrument: CTD
 Attached: pH | SBE35
@@ -103,7 +103,7 @@ Flowmeter S/N:
 Flowmeter Start: 
 Flowmeter End: 
 Action: Recovered
-Sounding: 208.00
+Sounding: 208.0
 Sample ID: 524095
 End_Sample_ID: 524118
 Wire out: 
@@ -127,7 +127,7 @@ Cruise: JC291
 PI: Marc Ringuette
 Protocol: AZOMP
 Platform: RRS JAMES COOK
-Revisions: 22/May/2026 17:25:51
+Revisions: 23/May/2026 09:29:49
 Mooring Number: 
 Number of RCMs: 
 Number of MicroCATs: 

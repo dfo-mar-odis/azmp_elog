@@ -1,0 +1,1761 @@
+$@MID@$: 73
+Date: Tue, 26 May 2026 00:19:02 +0000
+Reply to: 74
+Event: 028
+Station: AR7W_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 98856
+Flowmeter End: 
+Action: Deployed
+Sounding: 1070.0
+Sample ID: 524262
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-25 | 225517.0000 | 55 06.65904 N | 54 08.22804 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:32:38
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 74
+Date: Tue, 26 May 2026 00:19:17 +0000
+Reply to: 75
+In reply to: 73
+Event: 028
+Station: AR7W_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 98856
+Flowmeter End: 99021
+Action: Bottom
+Sounding: 1070.0
+Sample ID: 524262
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 225911.0001 | 55 06.65928 N | 54 08.22822 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:32:25
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 75
+Date: Tue, 26 May 2026 00:19:44 +0000
+In reply to: 74
+Event: 028
+Station: AR7W_08
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 98856
+Flowmeter End: 99021
+Action: Recovered
+Sounding: 1070.0
+Sample ID: 524262
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: submitted late - see ships log
+Time|Position: 2026-05-26 | 230759.0000 | 55 06.65844 N | 54 08.22858 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:34:31
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 76
+Date: Tue, 26 May 2026 00:27:53 +0000
+Reply to: 77
+Event: 029
+Station: AR7W_08
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 1061.92
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lyn Hobday
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-25 | 232130.0001 | 55 06.6576 N | 54 08.22582 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:27:31
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 77
+Date: Tue, 26 May 2026 00:28:08 +0000
+Reply to: 78
+In reply to: 76
+Event: 029
+Station: AR7W_08
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1063.76
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lyn Hobday
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-25 | 232627.0004 | 55 06.6465 N | 54 08.2029 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:32:04
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 78
+Date: Tue, 26 May 2026 00:28:36 +0000
+In reply to: 77
+Event: 029
+Station: AR7W_08
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 1063.92
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lyn Hobday
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Entered late - see ship log for appropriate time/coordinates
+Time|Position: 2026-05-25 | 233130.0000 | 55 06.63654 N | 54 08.18106 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:33:06
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 79
+Date: Tue, 26 May 2026 00:29:00 +0000
+Reply to: 80
+Event: 030
+Station: AR7W_08
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 1065.21
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lyn Hobday
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-25 | 234206.0000 | 55 06.61386 N | 54 08.13558 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:34:44
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 80
+Date: Tue, 26 May 2026 00:29:14 +0000
+Reply to: 81
+In reply to: 79
+Event: 030
+Station: AR7W_08
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1065.96
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lyn Hobday
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-25 | 235307.0009 | 55 06.6051 N | 54 08.11782 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:35:51
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 81
+Date: Tue, 26 May 2026 00:29:36 +0000
+In reply to: 80
+Event: 030
+Station: AR7W_08
+Instrument: Marine Snow Catcher
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 1066.16
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Lyn Hobday
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: Entered late - see ship log for appropriate time/coordinates
+Time|Position: 2026-05-26 | 000433.0000 | 55 06.6054 N | 54 08.11836 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:36:58
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 82
+Date: Tue, 26 May 2026 01:34:54 +0000
+Reply to: 83
+Event: 031
+Station: Hamilton Bank Mooring
+Instrument: IKMT
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 1070.66
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Charlotte Mathews
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 013454.0026 | 55 07.32430 N | 54 06.71252 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:44:27
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 83
+Date: Tue, 26 May 2026 09:43:15 +0000
+Reply to: 84
+In reply to: 82
+Event: 031
+Station: Hamilton Bank Mooring
+Instrument: IKMT
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 1070.66
+Sample ID: 
+End_Sample_ID: 
+Wire out: 181
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Charlotte Mathews
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 021943.0018 | 55 07.9443 N | 54 09.99726 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:46:59
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 84
+Date: Tue, 26 May 2026 02:35:29 +0000
+In reply to: 83
+Event: 031
+Station: Hamilton Bank Mooring
+Instrument: IKMT
+Attached: 
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 1104.02
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Charlotte Mathews
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 023529.0038 | 55 08.04355 N | 54 10.52875 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 09:45:38
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 85
+Date: Tue, 26 May 2026 05:10:02 +0000
+Reply to: 86
+Event: 032
+Station: AR7W_10
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 2441.53
+Sample ID: 524263
+End_Sample_ID: 524286
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 051002.0026 | 55 25.20029 N | 53 49.61103 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 86
+Date: Tue, 26 May 2026 06:06:53 +0000
+Reply to: 87
+In reply to: 85
+Event: 032
+Station: AR7W_10
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 2687.37
+Sample ID: 524263
+End_Sample_ID: 524286
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 060653.0038 | 55 25.20058 N | 53 49.61087 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 87
+Date: Tue, 26 May 2026 07:35:27 +0000
+In reply to: 86
+Event: 032
+Station: AR7W_10
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 2687.60
+Sample ID: 524263
+End_Sample_ID: 524286
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 073527.0011 | 55 25.19997 N | 53 49.61101 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 88
+Date: Tue, 26 May 2026 07:50:56 +0000
+Reply to: 89
+Event: 033
+Station: AR7W_10
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99021
+Flowmeter End: 
+Action: Deployed
+Sounding: 2687.26
+Sample ID: 524287
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Charlotte Mathews
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 075056.0032 | 55 25.19817 N | 53 49.61272 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:27:32
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 89
+Date: Tue, 26 May 2026 07:54:16 +0000
+Reply to: 90
+In reply to: 88
+Event: 033
+Station: AR7W_10
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99021
+Flowmeter End: 
+Action: Bottom
+Sounding: 2687.08
+Sample ID: 524287
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Charlotte Mathews
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 075416.0028 | 55 25.19864 N | 53 49.61312 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:27:15
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 90
+Date: Tue, 26 May 2026 07:56:51 +0000
+In reply to: 89
+Event: 033
+Station: AR7W_10
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99021
+Flowmeter End: 99254
+Action: Recovered
+Sounding: 2687.19
+Sample ID: 524287
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Charlotte Mathews
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 075650.0023 | 55 25.19817 N | 53 49.61324 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:26:46
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 91
+Date: Tue, 26 May 2026 11:18:11 +0000
+Reply to: 92
+Event: 034
+Station: AR7W_12
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 3142.69
+Sample ID: 524288
+End_Sample_ID: 524301
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 111811.0004 | 55 50.70327 N | 53 23.59368 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:25:21
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 92
+Date: Tue, 26 May 2026 11:30:42 +0000
+Reply to: 93
+In reply to: 91
+Event: 034
+Station: AR7W_12
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 3142.72
+Sample ID: 524288
+End_Sample_ID: 524301
+Wire out: 196
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 113042.0023 | 55 50.70278 N | 53 23.59493 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:25:09
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 93
+Date: Tue, 26 May 2026 11:58:55 +0000
+In reply to: 92
+Event: 034
+Station: AR7W_12
+Instrument: CTD
+Attached: pH | SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 3141.42
+Sample ID: 524288
+End_Sample_ID: 524301
+Wire out: 196
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 115855.0045 | 55 50.70281 N | 53 23.59526 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:25:01
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 94
+Date: Tue, 26 May 2026 12:11:53 +0000
+Reply to: 95
+Event: 035
+Station: AR7W_12
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99255
+Flowmeter End: 
+Action: Deployed
+Sounding: 3142.16
+Sample ID: 524301
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 121153.0048 | 55 50.70278 N | 53 23.59428 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:23:41
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 95
+Date: Tue, 26 May 2026 12:15:03 +0000
+Reply to: 96
+In reply to: 94
+Event: 035
+Station: AR7W_12
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99255
+Flowmeter End: 
+Action: Bottom
+Sounding: 3142.02
+Sample ID: 524301
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 121503.0042 | 55 50.70226 N | 53 23.59309 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:24:01
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 96
+Date: Tue, 26 May 2026 12:20:23 +0000
+In reply to: 95
+Event: 035
+Station: AR7W_12
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99255
+Flowmeter End: 99451
+Action: Recovered
+Sounding: 3142.82
+Sample ID: 524301
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 20
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 122023.0017 | 55 50.70320 N | 53 23.59410 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 26/May/2026 23:24:29
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 97
+Date: Tue, 26 May 2026 12:25:14 +0000
+Reply to: 98
+Event: 036
+Station: AR7W_12
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57116
+Flowmeter End: 
+Action: Deployed
+Sounding: 3142.35
+Sample ID: 
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: live tow
+Time|Position: 2026-05-26 | 122514.0026 | 55 50.70286 N | 53 23.59346 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 09:32:27
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 98
+Date: Tue, 26 May 2026 12:28:21 +0000
+Reply to: 99
+In reply to: 97
+Event: 036
+Station: AR7W_12
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57116
+Flowmeter End: 
+Action: Bottom
+Sounding: 3140.55
+Sample ID: 
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 25
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: live tow
+Time|Position: 2026-05-26 | 122821.0001 | 55 50.70297 N | 53 23.59419 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 09:32:34
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 99
+Date: Tue, 26 May 2026 12:33:22 +0000
+In reply to: 98
+Event: 036
+Station: AR7W_12
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 57116
+Flowmeter End: 57376
+Action: Recovered
+Sounding: 3141.70
+Sample ID: 
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 25
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: live tow
+Time|Position: 2026-05-26 | 123322.0013 | 55 50.70294 N | 53 23.59297 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 09:32:41
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 100
+Date: Tue, 26 May 2026 12:55:44 +0000
+Reply to: 101
+Event: 037
+Station: AR7W_12
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 3134.15
+Sample ID: 524302
+End_Sample_ID: 524325
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 125544.0019 | 55 50.70322 N | 53 23.59402 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 101
+Date: Tue, 26 May 2026 13:59:23 +0000
+Reply to: 102
+In reply to: 100
+Event: 037
+Station: AR7W_12
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 3140.95
+Sample ID: 524302
+End_Sample_ID: 524325
+Wire out: 3094
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 135923.0035 | 55 50.70255 N | 53 23.59475 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 102
+Date: Tue, 26 May 2026 15:42:13 +0000
+In reply to: 101
+Event: 037
+Station: AR7W_12
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 3133.81
+Sample ID: 524302
+End_Sample_ID: 524325
+Wire out: 3094
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 154213.0020 | 55 50.70274 N | 53 23.59448 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 103
+Date: Tue, 26 May 2026 17:56:56 +0000
+Reply to: 104
+Event: 038
+Station: AR7W_13
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Deployed
+Sounding: 3341.21
+Sample ID: 524326
+End_Sample_ID: 524349
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 175656.0033 | 56 06.78750 N | 53 07.05508 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 10:58:29
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 104
+Date: Tue, 26 May 2026 19:04:38 +0000
+Reply to: 105
+In reply to: 103
+Event: 038
+Station: AR7W_13
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Bottom
+Sounding: 3341.45
+Sample ID: 524326
+End_Sample_ID: 524349
+Wire out: 3290
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Jeff Jackson
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 190438.0049 | 56 06.78558 N | 53 07.05768 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 105
+Date: Tue, 26 May 2026 20:49:05 +0000
+In reply to: 104
+Event: 038
+Station: AR7W_13
+Instrument: CTD
+Attached: SBE35
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 
+Flowmeter End: 
+Action: Recovered
+Sounding: 3341.27
+Sample ID: 524326
+End_Sample_ID: 524349
+Wire out: 3290
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Chris Gordon
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 204905.0041 | 56 06.78552 N | 53 07.05923 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 106
+Date: Tue, 26 May 2026 21:00:38 +0000
+Reply to: 107, 
+Event: 039
+Station: AR7W_13
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99452
+Flowmeter End: 
+Action: Deployed
+Sounding: 3341.40
+Sample ID: 524350
+End_Sample_ID: 
+Wire out: 
+Wire Angle: 
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 210038.0022 | 56 06.78520 N | 53 07.05990 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 09:17:45
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 107
+Date: Tue, 26 May 2026 21:03:31 +0000
+Reply to: 108
+In reply to: 106
+Event: 039
+Station: AR7W_13
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99452
+Flowmeter End: 
+Action: Bottom
+Sounding: 3339.97
+Sample ID: 524350
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 210330.0042 | 56 06.78542 N | 53 07.05910 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 09:19:45
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 108
+Date: Tue, 26 May 2026 21:05:51 +0000
+In reply to: 107
+Event: 039
+Station: AR7W_13
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 99452
+Flowmeter End: 99528
+Action: Recovered
+Sounding: 3341.20
+Sample ID: 524350
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-26 | 210551.0015 | 56 06.78537 N | 53 07.05905 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 27/May/2026 09:19:51
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 111
+Date: Tue, 26 May 2026 23:57:23 +0000
+Reply to: 112
+In reply to: 12
+Event: 005
+Station: AR7W_01
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 54503
+Flowmeter End: 
+Action: Bottom
+Sounding: 305
+Sample ID: 524139
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-24 | 145648.0020 | 53 40.797 N | 55 33.00108 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 06/Jun/2026 13:18:39
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
+$@MID@$: 112
+Date: Tue, 26 May 2026 23:58:17 +0000
+In reply to: 111
+Event: 005
+Station: AR7W_01
+Instrument: RingNet
+Attached: 202um | Flowmeter
+Number_of_Bottles: 
+Flowmeter S/N: 
+Flowmeter Start: 54503
+Flowmeter End: 54844
+Action: Recovered
+Sounding: 307
+Sample ID: 524139
+End_Sample_ID: 
+Wire out: 100
+Wire Angle: 0
+Net Clogging: 
+Wind Direction: 
+Wind Speed (nm): 
+Sky (condition): 
+Swell Direction: 
+Swell Height (M): 
+Sea (Condition): 
+Depth: 
+Author: Marc Ringuette
+IMEI_No: 
+WMO_No: 
+S/N: 
+Name: 
+Comment: 
+Time|Position: 2026-05-24 | 150126.0020 | 53 40.79778 N | 55 33.00102 W
+Cruise: JC291
+PI: Marc Ringuette
+Protocol: AZOMP
+Platform: RRS JAMES COOK
+Revisions: 06/Jun/2026 13:19:33
+Mooring Number: 
+Number of RCMs: 
+Number of MicroCATs: 
+Number of Temperature Recorders: 
+Number of Amars: 
+Attachment: 
+Encoding: plain
+========================================
+
